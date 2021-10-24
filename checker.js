@@ -198,7 +198,7 @@ var servers = {
             isMapleStoryGameServer: true,
             rel: "Login"
         }],
-        Luna: [{
+        Orca: [{
                 icon: "Luna.png",
                 name: "Channel 22",
                 address: "202.80.104.149",
@@ -4602,6 +4602,8 @@ function GetPingOffset() {
 
 function GetDefaultSubSelectionForVersion(version) {
     switch (version) {
+        case 'TMS':
+            return 'Orca';
         case 'EMS':
             return 'Luna';
         case 'GMS':
