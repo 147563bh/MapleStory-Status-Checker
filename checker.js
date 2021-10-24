@@ -7106,7 +7106,7 @@ function GetPingOffset() {
 function GetDefaultSubSelectionForVersion(version) {
     switch (version) {
         case 'TMS':
-            return '登入';
+            return 'Login';
         case 'EMS':
             return 'Luna';
         case 'GMS':
