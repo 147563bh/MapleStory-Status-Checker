@@ -177,7 +177,7 @@ var servers = {
             interval: 5000,
             values: [],
             isMapleStoryGameServer: true,
-            rel: "Login"
+            rel: "登入 | Login"
         },
         {
             icon: "Mushroom.png",
@@ -187,7 +187,7 @@ var servers = {
             interval: 5000,
             values: [],
             isMapleStoryGameServer: true,
-            rel: "Login"
+            rel: "登入 | Login"
         },
         {
             icon: "Mushroom.png",
@@ -197,7 +197,7 @@ var servers = {
             interval: 5000,
             values: [],
             isMapleStoryGameServer: true,
-            rel: "Login"
+            rel: "登入 | Login"
         },
         {
             icon: "Mushroom.png",
@@ -207,7 +207,7 @@ var servers = {
             interval: 5000,
             values: [],
             isMapleStoryGameServer: true,
-            rel: "Login"
+            rel: "登入 | Login"
         },
         {
             icon: "Mushroom.png",
@@ -217,7 +217,7 @@ var servers = {
             interval: 5000,
             values: [],
             isMapleStoryGameServer: true,
-            rel: "Login"
+            rel: "登入 | Login"
         },
         {
             icon: "Mushroom.png",
@@ -227,7 +227,7 @@ var servers = {
             interval: 5000,
             values: [],
             isMapleStoryGameServer: true,
-            rel: "Login"
+            rel: "登入 | Login"
         }],
         StarPlanet: [{
             icon: "StarPlanet.png",
@@ -237,7 +237,7 @@ var servers = {
             interval: 5000,
             values: [],
             isMapleStoryGameServer: true,
-            rel: "Login"
+            rel: "登入 | Login"
         }, {
             icon: "StarPlanet.png",
             name: "Star Planet 2",
@@ -246,7 +246,7 @@ var servers = {
             interval: 5000,
             values: [],
             isMapleStoryGameServer: true,
-            rel: "Login"
+            rel: "登入 | Login"
         }],
         Aria: [
             {
@@ -2164,6 +2164,26 @@ var servers = {
                 name: "非公開頻道",
                 address: "202.80.104.37", 
                 port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Orca"
+            },
+            {
+                icon: "Orca.png",
+                name: "商城",
+                address: "202.80.104.45", 
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Orca"
+            },
+            {
+                icon: "Orca.png",
+                name: "拍賣",
+                address: "202.80.104.45", 
+                port: "8787",
                 interval: 5000,
                 values: [],
                 isMapleStoryGameServer: true,
@@ -6310,49 +6330,55 @@ var checker = {
             applications: [
                 GameServer("Taiwan", 8, [{
                         icon: "Mushroom.png",
-                        name: "Login",
+                        name: "登入 | Login",
                         english: false,
                         sub: ""
                     },
                     {
                         icon: "Aria.png",
-                        name: "Aria",
+                        name: "艾麗亞 | Aria",
                         english: false,
                         sub: "World"
                     },
                     {
                         icon: "Freud.png",
-                        name: "Freud",
+                        name: "普力特 | Freud",
                         english: false,
                         sub: "World"
                     },
                     {
                         icon: "Ryude.png",
-                        name: "Ryude",
+                        name: "琉德 | Ryude",
                         english: false,
                         sub: "World"
                     },
                     {
                         icon: "Rhinne.png",
-                        name: "Rhinne",
+                        name: "優伊娜 | Rhinne",
                         english: false,
                         sub: "World"
                     },
                     {
                         icon: "Alicia.png",
-                        name: "Alicia",
+                        name: "愛麗西亞 | Alicia",
                         english: false,
                         sub: "World"
                     },
                     {
                         icon: "Orca.png",
-                        name: "Orca",
+                        name: "殺人鯨 | Orca",
                         english: false,
                         sub: "World"
                     },
                     {
                         icon: "Reboot.png",
                         name: "Reboot",
+                        english: false,
+                        sub: "World"
+                    },
+                    {
+                        icon: "Supreme.png",
+                        name: "Supreme",
                         english: false,
                         sub: "World"
                     }
@@ -6365,7 +6391,8 @@ var checker = {
                     servers.TMS.Rhinne,
                     servers.TMS.Alicia,
                     servers.TMS.Orca,
-                    servers.TMS.Reboot
+                    servers.TMS.Reboot,
+                    servers.TMS.Supreme
                 ]),
                 {
                     name: "Internal Sites",
