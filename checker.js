@@ -2711,7 +2711,7 @@ var servers = {
                 address: "maplestory.beanfun.com",
                 port: "443",
                 interval: 60000,
-                rel: "mapleeu.com"
+                rel: "tw.beanfun.com"
             },
             {
                 icon: "Gamania.png",
@@ -2720,45 +2720,18 @@ var servers = {
                 address: "tw.beanfun.com",
                 port: "443",
                 interval: 60000,
-                rel: "nexoneu.com"
+                rel: "tw.beanfun.com"
+            },
+            {
+                icon: "Gamania.png",
+                name: "橘子QR",
+                sub: "",
+                address: "tw.newlogin.beanfun.com",
+                port: "443",
+                interval: 60000,
+                rel: "tw.beanfun.com"
             }
         ],
-        ExternalWebsites: [{
-                icon: "Mushroom.png",
-                name: "MapleEurope",
-                address: "mapleeurope.com",
-                port: "80",
-                interval: 60000,
-                rel: "mapleeu.com"
-            },
-            {
-                icon: "fa-globe",
-                name: "Auth02",
-                sub: "NXEU",
-                address: "auth02.nexoneu.com",
-                port: "80",
-                interval: 60000,
-                rel: "nexoneu.com"
-            },
-            {
-                icon: "fa-external-link",
-                name: "Download",
-                sub: "MSE",
-                address: "download.mapleeurope.com",
-                port: "80",
-                interval: 60000,
-                rel: "mapleeu.com"
-            },
-            {
-                icon: "fa-external-link",
-                name: "Patch",
-                address: "patch.nexoneu.com",
-                port: "80",
-                interval: 60000,
-                rel: "nexoneu.com"
-            }
-        ]
-    },
     EMS: {
         Login: [{
             icon: "Mushroom.png",
