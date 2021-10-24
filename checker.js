@@ -4057,7 +4057,7 @@ var checker = {
                 1
             ],
             applications: [
-                GameServer("Taiwan", 1, [{
+                GameServer("Taiwan", 10, [{
                         icon: "Mushroom.png",
                         name: "Login",
                         english: false,
@@ -4068,32 +4068,11 @@ var checker = {
                         name: "Orca",
                         english: false,
                         sub: "World"
-                    },
-                    {
-                        icon: "Kradia.png",
-                        name: "Kradia",
-                        english: false,
-                        sub: "World"
-                    },
-                    {
-                        icon: "Demethos.png",
-                        name: "Demethos",
-                        english: false,
-                        sub: "World"
-                    },
-                    {
-                        icon: "Supreme.png",
-                        name: "Supreme",
-                        english: false,
-                        sub: "World"
                     }
                 ], [
                     servers.TMS.Login,
                     servers.TMS.StarPlanet,
-                    servers.TMS.Orca,
-                    servers.TMS.Kradia,
-                    servers.TMS.Demethos,
-                    servers.TMS.Supreme
+                    servers.TMS.Orca
                 ]),
                 {
                     name: "Internal Sites",
