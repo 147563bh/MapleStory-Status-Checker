@@ -20,6 +20,7 @@ var checkTimeout = 5000,
 
 if (hash.length) {
     switch (hash[0]) {
+        case "#TMS":
         case "#EMS":
         case "#GMS":
             //case "#JMS":
@@ -167,6 +168,115 @@ var GameServer = function(version, timeOffset, icons, servers) {
 }
 
 var servers = {
+    TMS: {
+        Login: [{
+            icon: "Mushroom.png",
+            name: "Login",
+            address: "109.234.77.11",
+            port: "8484",
+            interval: 5000,
+            values: [],
+            isMapleStoryGameServer: true,
+            rel: "Login"
+        }],
+        StarPlanet: [{
+            icon: "StarPlanet.png",
+            name: "Star Planet 1",
+            address: "109.234.77.27",
+            port: "8591",
+            interval: 5000,
+            values: [],
+            isMapleStoryGameServer: true,
+            rel: "Login"
+        }, {
+            icon: "StarPlanet.png",
+            name: "Star Planet 2",
+            address: "109.234.77.38",
+            port: "8592",
+            interval: 5000,
+            values: [],
+            isMapleStoryGameServer: true,
+            rel: "Login"
+        }],
+        Luna: [{
+                icon: "Luna.png",
+                name: "Channel 22",
+                address: "202.80.104.149",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Luna"
+            },
+            {
+                icon: "Luna.png",
+                name: "Channel 23",
+                address: "202.80.104.150",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Luna"
+            }
+        ],
+        Supreme: [{
+                icon: "Supreme.png",
+                name: "Channel 1",
+                address: "109.234.77.38",
+                port: "8597",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Supreme"
+            },
+            {
+                icon: "Supreme.png",
+                name: "Cash Shop",
+                address: "109.234.77.13",
+                port: "8791",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Supreme"
+            }
+        ],
+        InternalWebsites: [{
+                icon: "Mushroom.png",
+                name: "MapleEurope",
+                address: "mapleeurope.com",
+                port: "80",
+                interval: 60000,
+                rel: "mapleeu.com"
+            },
+            {
+                icon: "fa-globe",
+                name: "Auth02",
+                sub: "NXEU",
+                address: "auth02.nexoneu.com",
+                port: "80",
+                interval: 60000,
+                rel: "nexoneu.com"
+            }
+        ],
+        ExternalWebsites: [{
+                icon: "fa-external-link",
+                name: "Download",
+                sub: "MSE",
+                address: "download.mapleeurope.com",
+                port: "80",
+                interval: 60000,
+                rel: "mapleeu.com"
+            },
+            {
+                icon: "fa-external-link",
+                name: "Patch",
+                address: "patch.nexoneu.com",
+                port: "80",
+                interval: 60000,
+                rel: "nexoneu.com"
+            }
+        ]
+    },
     EMS: {
         Login: [{
             icon: "Mushroom.png",
