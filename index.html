@@ -251,7 +251,7 @@
 						</dl>
 					</div>
 					<div class="status" data-bind="css: { ok: +time() > 0 && +time() < 200, slow: +time() >= 200, timeout: status() == 'timeout' }">
-						<div class="text" data-bind="text: status() == 'timeout' ? 'No Response' : time() > 0 ? (time() > $root.settings.pingOffset() > 0 ? time() - $root.settings.pingOffset() : 0) < 1000 ? 'Online!' : 'Online! Slow...' : 'Checking...'"></div>
+						<div class="text" data-bind="text: status() == 'timeout' ? 'No Response' : time() > 0 ? (time() > $root.settings.pingOffset() > 0 ? time() - $root.settings.pingOffset() : 0) < 200 ? 'Online!' : 'Online! Slow...' : 'Checking...'"></div>
 						<div class="time" data-bind="css: { hidden: !$root.settings.showConnection() }, text: time() !== '' && status() != 'timeout' ? (time() > $root.settings.pingOffset() > 0 ? time() - $root.settings.pingOffset() : 0) + 'ms' : ''"></div>
 					</div>
 				</article>
