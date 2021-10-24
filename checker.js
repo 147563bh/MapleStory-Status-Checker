@@ -4379,7 +4379,7 @@ var checker = {
             abbr: "TMS",
             name: "MapleStory Taiwan <small>(台灣)</small>",
             available: true,
-            complete: true,
+            complete: false,
             icon: "Orca.png",
             short: "台灣 | Taiwan",
             serverCount: [
@@ -4530,7 +4530,7 @@ var checker = {
             abbr: "GMS",
             name: "MapleStory North America <small>(Global)</small>",
             available: true,
-            complete: true,
+            complete: false,
             icon: "Scania.png",
             short: "North America (Global)",
             serverCount: [
