@@ -2707,6 +2707,7 @@ var servers = {
         InternalWebsites: [{
                 icon: "Mushroom.png",
                 name: "新楓之谷",
+                sub: "Gamania",
                 address: "maplestory.beanfun.com",
                 port: "443",
                 interval: 60000,
