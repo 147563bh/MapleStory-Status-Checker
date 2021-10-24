@@ -177,7 +177,7 @@ var servers = {
             interval: 5000,
             values: [],
             isMapleStoryGameServer: true,
-            rel: "登入 | Login"
+            rel: "Login"
         },
         {
             icon: "Mushroom.png",
@@ -187,7 +187,7 @@ var servers = {
             interval: 5000,
             values: [],
             isMapleStoryGameServer: true,
-            rel: "登入 | Login"
+            rel: "Login"
         },
         {
             icon: "Mushroom.png",
@@ -197,7 +197,7 @@ var servers = {
             interval: 5000,
             values: [],
             isMapleStoryGameServer: true,
-            rel: "登入 | Login"
+            rel: "Login"
         },
         {
             icon: "Mushroom.png",
@@ -207,7 +207,7 @@ var servers = {
             interval: 5000,
             values: [],
             isMapleStoryGameServer: true,
-            rel: "登入 | Login"
+            rel: "Login"
         },
         {
             icon: "Mushroom.png",
@@ -217,7 +217,7 @@ var servers = {
             interval: 5000,
             values: [],
             isMapleStoryGameServer: true,
-            rel: "登入 | Login"
+            rel: "Login"
         },
         {
             icon: "Mushroom.png",
@@ -227,7 +227,7 @@ var servers = {
             interval: 5000,
             values: [],
             isMapleStoryGameServer: true,
-            rel: "登入 | Login"
+            rel: "Login"
         }],
         StarPlanet: [{
             icon: "StarPlanet.png",
@@ -237,7 +237,7 @@ var servers = {
             interval: 5000,
             values: [],
             isMapleStoryGameServer: true,
-            rel: "登入 | Login"
+            rel: "Login"
         }, {
             icon: "StarPlanet.png",
             name: "Star Planet 2",
@@ -246,7 +246,7 @@ var servers = {
             interval: 5000,
             values: [],
             isMapleStoryGameServer: true,
-            rel: "登入 | Login"
+            rel: "Login"
         }],
         Aria: [
             {
@@ -6330,43 +6330,43 @@ var checker = {
             applications: [
                 GameServer("Taiwan", 8, [{
                         icon: "Mushroom.png",
-                        name: "登入 | Login",
+                        name: "Login",
                         english: false,
                         sub: ""
                     },
                     {
                         icon: "Aria.png",
-                        name: "艾麗亞 | Aria",
+                        name: "Aria",
                         english: false,
                         sub: "World"
                     },
                     {
                         icon: "Freud.png",
-                        name: "普力特 | Freud",
+                        name: "Freud",
                         english: false,
                         sub: "World"
                     },
                     {
                         icon: "Ryude.png",
-                        name: "琉德 | Ryude",
+                        name: "Ryude",
                         english: false,
                         sub: "World"
                     },
                     {
                         icon: "Rhinne.png",
-                        name: "優伊娜 | Rhinne",
+                        name: "Rhinne",
                         english: false,
                         sub: "World"
                     },
                     {
                         icon: "Alicia.png",
-                        name: "愛麗西亞 | Alicia",
+                        name: "Alicia",
                         english: false,
                         sub: "World"
                     },
                     {
                         icon: "Orca.png",
-                        name: "殺人鯨 | Orca",
+                        name: "Orca",
                         english: false,
                         sub: "World"
                     },
@@ -6894,7 +6894,7 @@ function GetPingOffset() {
 function GetDefaultSubSelectionForVersion(version) {
     switch (version) {
         case 'TMS':
-            return '登入 | Login';
+            return 'Login';
         case 'EMS':
             return 'Luna';
         case 'GMS':
