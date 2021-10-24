@@ -206,7 +206,7 @@ var servers = {
                 interval: 5000,
                 values: [],
                 isMapleStoryGameServer: true,
-                rel: "Luna"
+                rel: "Orca"
             },
             {
                 icon: "Luna.png",
@@ -216,7 +216,7 @@ var servers = {
                 interval: 5000,
                 values: [],
                 isMapleStoryGameServer: true,
-                rel: "Luna"
+                rel: "Orca"
             }
         ],
         Supreme: [{
@@ -4065,7 +4065,7 @@ var checker = {
                     },
                     {
                         icon: "Luna.png",
-                        name: "Luna",
+                        name: "Orca",
                         english: false,
                         sub: "World"
                     },
@@ -4090,7 +4090,7 @@ var checker = {
                 ], [
                     servers.TMS.Login,
                     servers.TMS.StarPlanet,
-                    servers.TMS.Luna,
+                    servers.TMS.Orca,
                     servers.TMS.Kradia,
                     servers.TMS.Demethos,
                     servers.TMS.Supreme
