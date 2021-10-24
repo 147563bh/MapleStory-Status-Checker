@@ -248,6 +248,308 @@ var servers = {
             isMapleStoryGameServer: true,
             rel: "Login"
         }],
+        Alicia: [
+            {
+                icon: "Alicia.png",
+                name: "Ch.01",
+                address: "202.80.104.124",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Alicia"
+            },
+            {
+                icon: "Alicia.png",
+                name: "Ch.02",
+                address: "202.80.104.124",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Alicia"
+            },
+            {
+                icon: "Alicia.png",
+                name: "Ch.03",
+                address: "202.80.104.125",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Alicia"
+            },
+            {
+                icon: "Alicia.png",
+                name: "Ch.04",
+                address: "202.80.104.125",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Alicia"
+            },
+            {
+                icon: "Alicia.png",
+                name: "Ch.05",
+                address: "202.80.104.126",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Alicia"
+            },
+            {
+                icon: "Alicia.png",
+                name: "Ch.06",
+                address: "202.80.104.126",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Alicia"
+            },
+            {
+                icon: "Alicia.png",
+                name: "Ch.07",
+                address: "202.80.104.127",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Alicia"
+            },
+            {
+                icon: "Alicia.png",
+                name: "Ch.08",
+                address: "202.80.104.127",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Alicia"
+            },
+            {
+                icon: "Alicia.png",
+                name: "Ch.09",
+                address: "202.80.104.128",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Alicia"
+            },
+            {
+                icon: "Alicia.png",
+                name: "Ch.10",
+                address: "202.80.104.128",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Alicia"
+            },
+            {
+                icon: "Alicia.png",
+                name: "Ch.11",
+                address: "202.80.104.129",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Alicia"
+            },
+            {
+                icon: "Alicia.png",
+                name: "Ch.12",
+                address: "202.80.104.129",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Alicia"
+            },
+            {
+                icon: "Alicia.png",
+                name: "Ch.13",
+                address: "202.80.104.130",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Alicia"
+            },
+            {
+                icon: "Alicia.png",
+                name: "Ch.14",
+                address: "202.80.104.130",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Alicia"
+            },
+            {
+                icon: "Alicia.png",
+                name: "Ch.15",
+                address: "202.80.104.131",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Alicia"
+            },
+            {
+                icon: "Alicia.png",
+                name: "Ch.16",
+                address: "202.80.104.131",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Alicia"
+            },
+            {
+                icon: "Alicia.png",
+                name: "Ch.17",
+                address: "202.80.104.132",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Alicia"
+            },
+            {
+                icon: "Alicia.png",
+                name: "Ch.18",
+                address: "202.80.104.132",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Alicia"
+            },
+            {
+                icon: "Alicia.png",
+                name: "Ch.19",
+                address: "202.80.104.133",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Alicia"
+            },
+            {
+                icon: "Alicia.png",
+                name: "Ch.20",
+                address: "202.80.104.133",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Alicia"
+            },
+            {
+                icon: "Alicia.png",
+                name: "Ch.21",
+                address: "202.80.104.134",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Alicia"
+            },
+            {
+                icon: "Alicia.png",
+                name: "Ch.22",
+                address: "202.80.104.134",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Alicia"
+            },
+            {
+                icon: "Alicia.png",
+                name: "Ch.23",
+                address: "202.80.104.135",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Alicia"
+            },
+            {
+                icon: "Alicia.png",
+                name: "Ch.24",
+                address: "202.80.104.135",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Alicia"
+            },
+            {
+                icon: "Alicia.png",
+                name: "Ch.25",
+                address: "202.80.104.136",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Alicia"
+            },
+            {
+                icon: "Alicia.png",
+                name: "Ch.26",
+                address: "202.80.104.136",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Alicia"
+            },
+            {
+                icon: "Alicia.png",
+                name: "Ch.27",
+                address: "202.80.104.137",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Alicia"
+            },
+            {
+                icon: "Alicia.png",
+                name: "Ch.28",
+                address: "202.80.104.137",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Alicia"
+            },
+            {
+                icon: "Alicia.png",
+                name: "Ch.29",
+                address: "202.80.104.138",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Alicia"
+            },
+            {
+                icon: "Alicia.png",
+                name: "Ch.30",
+                address: "202.80.104.138",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Alicia"
+            }
+        ],
         Orca: [
             {
                 icon: "Orca.png",
