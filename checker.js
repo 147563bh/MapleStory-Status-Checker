@@ -4379,7 +4379,7 @@ var checker = {
             abbr: "TMS",
             name: "MapleStory Taiwan (台灣)",
             available: true,
-            complete: false,
+            complete: true,
             icon: "Orca.png",
             short: "台灣 | Taiwan",
             serverCount: [
