@@ -4377,11 +4377,11 @@ var checker = {
     versions: [
         {
             abbr: "TMS",
-            name: "MapleStory Taiwan",
+            name: "MapleStory Taiwan <small>(台灣)</small>",
             available: true,
             complete: true,
             icon: "Orca.png",
-            short: "Taiwan",
+            short: "台灣 | Taiwan",
             serverCount: [
                 10
             ],
