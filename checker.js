@@ -690,6 +690,36 @@ var servers = {
                 values: [],
                 isMapleStoryGameServer: true,
                 rel: "艾麗亞"
+            },
+            {
+                icon: "Aria.png",
+                name: "非公開頻道",
+                address: "202.80.104.32", 
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "艾麗亞"
+            },
+            {
+                icon: "Aria.png",
+                name: "商城",
+                address: "202.80.104.40", 
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "艾麗亞"
+            },
+            {
+                icon: "Aria.png",
+                name: "拍賣",
+                address: "202.80.104.40", 
+                port: "8787",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "艾麗亞"
             }
         ],
         普力特: [
@@ -988,6 +1018,36 @@ var servers = {
                 name: "Ch.30",
                 address: "202.80.104.93",
                 port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "普力特"
+            },
+            {
+                icon: "Freud.png",
+                name: "非公開頻道",
+                address: "202.80.104.33", 
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "普力特"
+            },
+            {
+                icon: "Freud.png",
+                name: "商城",
+                address: "202.80.104.41", 
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "普力特"
+            },
+            {
+                icon: "Freud.png",
+                name: "拍賣",
+                address: "202.80.104.41", 
+                port: "8787",
                 interval: 5000,
                 values: [],
                 isMapleStoryGameServer: true,
@@ -1294,6 +1354,36 @@ var servers = {
                 values: [],
                 isMapleStoryGameServer: true,
                 rel: "琉德"
+            },
+            {
+                icon: "Ryude.png",
+                name: "非公開頻道",
+                address: "202.80.104.34", 
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "琉德"
+            },
+            {
+                icon: "Ryude.png",
+                name: "商城",
+                address: "202.80.104.42", 
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "琉德"
+            },
+            {
+                icon: "Ryude.png",
+                name: "拍賣",
+                address: "202.80.104.42", 
+                port: "8787",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "琉德"
             }
         ],
         優伊娜: [
@@ -1596,6 +1686,36 @@ var servers = {
                 values: [],
                 isMapleStoryGameServer: true,
                 rel: "優伊娜"
+            },
+            {
+                icon: "Rhinne.png",
+                name: "非公開頻道",
+                address: "202.80.104.35", 
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "優伊娜"
+            },
+            {
+                icon: "Rhinne.png",
+                name: "商城",
+                address: "202.80.104.43", 
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "優伊娜"
+            },
+            {
+                icon: "Rhinne.png",
+                name: "拍賣",
+                address: "202.80.104.43", 
+                port: "8787",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "優伊娜"
             }
         ],
         愛麗西亞: [
@@ -1894,6 +2014,36 @@ var servers = {
                 name: "Ch.30",
                 address: "202.80.104.138",
                 port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "愛麗西亞"
+            },
+            {
+                icon: "Alicia.png",
+                name: "非公開頻道",
+                address: "202.80.104.36", 
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "愛麗西亞"
+            },
+            {
+                icon: "Alicia.png",
+                name: "商城",
+                address: "202.80.104.44", 
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "愛麗西亞"
+            },
+            {
+                icon: "Alicia.png",
+                name: "拍賣",
+                address: "202.80.104.44", 
+                port: "8787",
                 interval: 5000,
                 values: [],
                 isMapleStoryGameServer: true,
