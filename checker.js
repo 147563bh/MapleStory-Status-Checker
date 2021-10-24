@@ -4949,7 +4949,7 @@ function GetPingOffset() {
 function GetDefaultSubSelectionForVersion(version) {
     switch (version) {
         case 'TMS':
-            return 'Orca';
+            return 'Login';
         case 'EMS':
             return 'Luna';
         case 'GMS':
