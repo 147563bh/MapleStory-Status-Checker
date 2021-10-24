@@ -2159,7 +2159,7 @@ var servers = {
                 isMapleStoryGameServer: true,
                 rel: "Orca"
             },
-            CrossWorld, [{
+            CrossWorld: [{
                 icon: "Orca.png",
                 name: "非公開頻道",
                 address: "202.80.104.37", 
