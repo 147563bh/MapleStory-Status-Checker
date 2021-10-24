@@ -232,7 +232,7 @@
 				<!-- ko if: name == "Channel 1" || name == "Cash Shop" || name == "Artemis" || name == "Star Planet 1" || name == "Boss Arena 1" || name == "Merge World" || name == "CrossWorld" || name == "Monster Life" || name == "Evolution Lab" -->
 				<br>
 				<!-- /ko -->
-				<article data-bind="css: { ok: +time() > 0 && +time() < 1000, slow: +time() >= 1000, timeout: status() == 'timeout' }, attr: { 'data-rel': rel }">
+				<article data-bind="css: { ok: +time() > 0 && +time() < 200, slow: +time() >= 200, timeout: status() == 'timeout' }, attr: { 'data-rel': rel }">
 					<div>
 						<h3>
 							<!-- ko if: icon.charAt(0) != 'f' -->
@@ -250,7 +250,7 @@
 							<dd class="port" data-bind="text: port"></dd>
 						</dl>
 					</div>
-					<div class="status" data-bind="css: { ok: +time() > 0 && +time() < 1000, slow: +time() >= 1000, timeout: status() == 'timeout' }">
+					<div class="status" data-bind="css: { ok: +time() > 0 && +time() < 200, slow: +time() >= 200, timeout: status() == 'timeout' }">
 						<div class="text" data-bind="text: status() == 'timeout' ? 'No Response' : time() > 0 ? (time() > $root.settings.pingOffset() > 0 ? time() - $root.settings.pingOffset() : 0) < 1000 ? 'Online!' : 'Online! Slow...' : 'Checking...'"></div>
 						<div class="time" data-bind="css: { hidden: !$root.settings.showConnection() }, text: time() !== '' && status() != 'timeout' ? (time() > $root.settings.pingOffset() > 0 ? time() - $root.settings.pingOffset() : 0) + 'ms' : ''"></div>
 					</div>
@@ -266,7 +266,7 @@
 	<div class="wrapper">
 		<article id="footer-top">
 			<a href="#">
-				
+
 			</a>
 		</article>
 		<footer id="footer">&copy; Copyright <a href="/MapleStory-Status-Checker">maple.watch</a> 2015<br>All Rights Reserved</footer>
