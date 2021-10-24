@@ -252,7 +252,7 @@ var servers = {
             {
                 icon: "Aria.png",
                 name: "Ch.01",
-                address: "202.65.74.64",
+                address: "202.80.104.64",
                 port: "8585",
                 interval: 5000,
                 values: [],
@@ -262,7 +262,7 @@ var servers = {
             {
                 icon: "Aria.png",
                 name: "Ch.02",
-                address: "202.65.74.64",
+                address: "202.80.104.64",
                 port: "8686",
                 interval: 5000,
                 values: [],
@@ -272,7 +272,7 @@ var servers = {
             {
                 icon: "Aria.png",
                 name: "Ch.03",
-                address: "202.65.74.65",
+                address: "202.80.104.65",
                 port: "8585",
                 interval: 5000,
                 values: [],
@@ -282,7 +282,7 @@ var servers = {
             {
                 icon: "Aria.png",
                 name: "Ch.04",
-                address: "202.65.74.65",
+                address: "202.80.104.65",
                 port: "8686",
                 interval: 5000,
                 values: [],
@@ -292,7 +292,7 @@ var servers = {
             {
                 icon: "Aria.png",
                 name: "Ch.05",
-                address: "202.65.74.66",
+                address: "202.80.104.66",
                 port: "8585",
                 interval: 5000,
                 values: [],
@@ -302,7 +302,7 @@ var servers = {
             {
                 icon: "Aria.png",
                 name: "Ch.06",
-                address: "202.65.74.66",
+                address: "202.80.104.66",
                 port: "8686",
                 interval: 5000,
                 values: [],
@@ -312,7 +312,7 @@ var servers = {
             {
                 icon: "Aria.png",
                 name: "Ch.07",
-                address: "202.65.74.67",
+                address: "202.80.104.67",
                 port: "8585",
                 interval: 5000,
                 values: [],
@@ -322,7 +322,7 @@ var servers = {
             {
                 icon: "Aria.png",
                 name: "Ch.08",
-                address: "202.65.74.67",
+                address: "202.80.104.67",
                 port: "8686",
                 interval: 5000,
                 values: [],
@@ -332,7 +332,7 @@ var servers = {
             {
                 icon: "Aria.png",
                 name: "Ch.09",
-                address: "202.65.74.68",
+                address: "202.80.104.68",
                 port: "8585",
                 interval: 5000,
                 values: [],
@@ -342,7 +342,7 @@ var servers = {
             {
                 icon: "Aria.png",
                 name: "Ch.10",
-                address: "202.65.74.68",
+                address: "202.80.104.68",
                 port: "8686",
                 interval: 5000,
                 values: [],
@@ -352,7 +352,7 @@ var servers = {
             {
                 icon: "Aria.png",
                 name: "Ch.11",
-                address: "202.65.74.69",
+                address: "202.80.104.69",
                 port: "8585",
                 interval: 5000,
                 values: [],
@@ -362,7 +362,7 @@ var servers = {
             {
                 icon: "Aria.png",
                 name: "Ch.12",
-                address: "202.65.74.69",
+                address: "202.80.104.69",
                 port: "8686",
                 interval: 5000,
                 values: [],
@@ -372,7 +372,7 @@ var servers = {
             {
                 icon: "Aria.png",
                 name: "Ch.13",
-                address: "202.65.74.70",
+                address: "202.80.104.70",
                 port: "8585",
                 interval: 5000,
                 values: [],
@@ -382,7 +382,7 @@ var servers = {
             {
                 icon: "Aria.png",
                 name: "Ch.14",
-                address: "202.65.74.70",
+                address: "202.80.104.70",
                 port: "8686",
                 interval: 5000,
                 values: [],
@@ -392,7 +392,7 @@ var servers = {
             {
                 icon: "Aria.png",
                 name: "Ch.15",
-                address: "202.65.74.71",
+                address: "202.80.104.71",
                 port: "8585",
                 interval: 5000,
                 values: [],
@@ -402,7 +402,7 @@ var servers = {
             {
                 icon: "Aria.png",
                 name: "Ch.16",
-                address: "202.65.74.71",
+                address: "202.80.104.71",
                 port: "8686",
                 interval: 5000,
                 values: [],
@@ -412,7 +412,7 @@ var servers = {
             {
                 icon: "Aria.png",
                 name: "Ch.17",
-                address: "202.65.74.72",
+                address: "202.80.104.72",
                 port: "8585",
                 interval: 5000,
                 values: [],
@@ -422,7 +422,7 @@ var servers = {
             {
                 icon: "Aria.png",
                 name: "Ch.18",
-                address: "202.65.74.72",
+                address: "202.80.104.72",
                 port: "8686",
                 interval: 5000,
                 values: [],
@@ -432,7 +432,7 @@ var servers = {
             {
                 icon: "Aria.png",
                 name: "Ch.19",
-                address: "202.65.74.73",
+                address: "202.80.104.73",
                 port: "8585",
                 interval: 5000,
                 values: [],
@@ -442,7 +442,7 @@ var servers = {
             {
                 icon: "Aria.png",
                 name: "Ch.20",
-                address: "202.65.74.73",
+                address: "202.80.104.73",
                 port: "8686",
                 interval: 5000,
                 values: [],
@@ -452,7 +452,7 @@ var servers = {
             {
                 icon: "Aria.png",
                 name: "Ch.21",
-                address: "202.65.74.74",
+                address: "202.80.104.74",
                 port: "8585",
                 interval: 5000,
                 values: [],
@@ -462,7 +462,7 @@ var servers = {
             {
                 icon: "Aria.png",
                 name: "Ch.22",
-                address: "202.65.74.74",
+                address: "202.80.104.74",
                 port: "8686",
                 interval: 5000,
                 values: [],
@@ -472,7 +472,7 @@ var servers = {
             {
                 icon: "Aria.png",
                 name: "Ch.23",
-                address: "202.65.74.75",
+                address: "202.80.104.75",
                 port: "8585",
                 interval: 5000,
                 values: [],
@@ -482,7 +482,7 @@ var servers = {
             {
                 icon: "Aria.png",
                 name: "Ch.24",
-                address: "202.65.74.75",
+                address: "202.80.104.75",
                 port: "8686",
                 interval: 5000,
                 values: [],
@@ -492,7 +492,7 @@ var servers = {
             {
                 icon: "Aria.png",
                 name: "Ch.25",
-                address: "202.65.74.76",
+                address: "202.80.104.76",
                 port: "8585",
                 interval: 5000,
                 values: [],
@@ -502,7 +502,7 @@ var servers = {
             {
                 icon: "Aria.png",
                 name: "Ch.26",
-                address: "202.65.74.76",
+                address: "202.80.104.76",
                 port: "8686",
                 interval: 5000,
                 values: [],
@@ -512,7 +512,7 @@ var servers = {
             {
                 icon: "Aria.png",
                 name: "Ch.27",
-                address: "202.65.74.77",
+                address: "202.80.104.77",
                 port: "8585",
                 interval: 5000,
                 values: [],
@@ -522,7 +522,7 @@ var servers = {
             {
                 icon: "Aria.png",
                 name: "Ch.28",
-                address: "202.65.74.77",
+                address: "202.80.104.77",
                 port: "8686",
                 interval: 5000,
                 values: [],
@@ -532,7 +532,7 @@ var servers = {
             {
                 icon: "Aria.png",
                 name: "Ch.29",
-                address: "202.65.74.78",
+                address: "202.80.104.78",
                 port: "8585",
                 interval: 5000,
                 values: [],
@@ -542,7 +542,7 @@ var servers = {
             {
                 icon: "Aria.png",
                 name: "Ch.30",
-                address: "202.65.74.78",
+                address: "202.80.104.78",
                 port: "8686",
                 interval: 5000,
                 values: [],
@@ -552,7 +552,7 @@ var servers = {
             {
                 icon: "Aria.png",
                 name: "Ch.31",
-                address: "202.65.74.154",
+                address: "202.80.104.154",
                 port: "8585",
                 interval: 5000,
                 values: [],
@@ -562,7 +562,7 @@ var servers = {
             {
                 icon: "Aria.png",
                 name: "Ch.32",
-                address: "202.65.74.154",
+                address: "202.80.104.154",
                 port: "8686",
                 interval: 5000,
                 values: [],
@@ -572,7 +572,7 @@ var servers = {
             {
                 icon: "Aria.png",
                 name: "Ch.33",
-                address: "202.65.74.155",
+                address: "202.80.104.155",
                 port: "8585",
                 interval: 5000,
                 values: [],
@@ -582,7 +582,7 @@ var servers = {
             {
                 icon: "Aria.png",
                 name: "Ch.34",
-                address: "202.65.74.155",
+                address: "202.80.104.155",
                 port: "8686",
                 interval: 5000,
                 values: [],
@@ -592,7 +592,7 @@ var servers = {
             {
                 icon: "Aria.png",
                 name: "Ch.35",
-                address: "202.65.74.156",
+                address: "202.80.104.156",
                 port: "8585",
                 interval: 5000,
                 values: [],
@@ -602,7 +602,7 @@ var servers = {
             {
                 icon: "Aria.png",
                 name: "Ch.36",
-                address: "202.65.74.156",
+                address: "202.80.104.156",
                 port: "8686",
                 interval: 5000,
                 values: [],
@@ -612,7 +612,7 @@ var servers = {
             {
                 icon: "Aria.png",
                 name: "Ch.37",
-                address: "202.65.74.157",
+                address: "202.80.104.157",
                 port: "8585",
                 interval: 5000,
                 values: [],
@@ -622,7 +622,7 @@ var servers = {
             {
                 icon: "Aria.png",
                 name: "Ch.38",
-                address: "202.65.74.157",
+                address: "202.80.104.157",
                 port: "8686",
                 interval: 5000,
                 values: [],
@@ -632,7 +632,7 @@ var servers = {
             {
                 icon: "Aria.png",
                 name: "Ch.39",
-                address: "202.65.74.158",
+                address: "202.80.104.158",
                 port: "8585",
                 interval: 5000,
                 values: [],
@@ -642,7 +642,7 @@ var servers = {
             {
                 icon: "Aria.png",
                 name: "Ch.40",
-                address: "202.65.74.158",
+                address: "202.80.104.158",
                 port: "8686",
                 interval: 5000,
                 values: [],
@@ -654,7 +654,7 @@ var servers = {
             {
                 icon: "Freud.png",
                 name: "Ch.01",
-                address: "202.80.89.79",
+                address: "202.80.104.79",
                 port: "8585",
                 interval: 5000,
                 values: [],
@@ -664,7 +664,7 @@ var servers = {
             {
                 icon: "Freud.png",
                 name: "Ch.02",
-                address: "202.80.89.79",
+                address: "202.80.104.79",
                 port: "8686",
                 interval: 5000,
                 values: [],
@@ -674,7 +674,7 @@ var servers = {
             {
                 icon: "Freud.png",
                 name: "Ch.03",
-                address: "202.80.89.80",
+                address: "202.80.104.80",
                 port: "8585",
                 interval: 5000,
                 values: [],
@@ -684,7 +684,7 @@ var servers = {
             {
                 icon: "Freud.png",
                 name: "Ch.04",
-                address: "202.80.89.80",
+                address: "202.80.104.80",
                 port: "8686",
                 interval: 5000,
                 values: [],
@@ -694,7 +694,7 @@ var servers = {
             {
                 icon: "Freud.png",
                 name: "Ch.05",
-                address: "202.80.89.81",
+                address: "202.80.104.81",
                 port: "8585",
                 interval: 5000,
                 values: [],
@@ -704,7 +704,7 @@ var servers = {
             {
                 icon: "Freud.png",
                 name: "Ch.06",
-                address: "202.80.89.81",
+                address: "202.80.104.81",
                 port: "8686",
                 interval: 5000,
                 values: [],
@@ -714,7 +714,7 @@ var servers = {
             {
                 icon: "Freud.png",
                 name: "Ch.07",
-                address: "202.80.89.82",
+                address: "202.80.104.82",
                 port: "8585",
                 interval: 5000,
                 values: [],
@@ -724,7 +724,7 @@ var servers = {
             {
                 icon: "Freud.png",
                 name: "Ch.08",
-                address: "202.80.89.82",
+                address: "202.80.104.82",
                 port: "8686",
                 interval: 5000,
                 values: [],
@@ -734,7 +734,7 @@ var servers = {
             {
                 icon: "Freud.png",
                 name: "Ch.09",
-                address: "202.80.89.83",
+                address: "202.80.104.83",
                 port: "8585",
                 interval: 5000,
                 values: [],
@@ -744,7 +744,7 @@ var servers = {
             {
                 icon: "Freud.png",
                 name: "Ch.10",
-                address: "202.80.89.83",
+                address: "202.80.104.83",
                 port: "8686",
                 interval: 5000,
                 values: [],
@@ -754,7 +754,7 @@ var servers = {
             {
                 icon: "Freud.png",
                 name: "Ch.11",
-                address: "202.80.89.84",
+                address: "202.80.104.84",
                 port: "8585",
                 interval: 5000,
                 values: [],
@@ -764,7 +764,7 @@ var servers = {
             {
                 icon: "Freud.png",
                 name: "Ch.12",
-                address: "202.80.89.84",
+                address: "202.80.104.84",
                 port: "8686",
                 interval: 5000,
                 values: [],
@@ -774,7 +774,7 @@ var servers = {
             {
                 icon: "Freud.png",
                 name: "Ch.13",
-                address: "202.80.89.85",
+                address: "202.80.104.85",
                 port: "8585",
                 interval: 5000,
                 values: [],
@@ -784,7 +784,7 @@ var servers = {
             {
                 icon: "Freud.png",
                 name: "Ch.14",
-                address: "202.80.89.85",
+                address: "202.80.104.85",
                 port: "8686",
                 interval: 5000,
                 values: [],
@@ -794,7 +794,7 @@ var servers = {
             {
                 icon: "Freud.png",
                 name: "Ch.15",
-                address: "202.80.89.86",
+                address: "202.80.104.86",
                 port: "8585",
                 interval: 5000,
                 values: [],
@@ -804,7 +804,7 @@ var servers = {
             {
                 icon: "Freud.png",
                 name: "Ch.16",
-                address: "202.80.89.86",
+                address: "202.80.104.86",
                 port: "8686",
                 interval: 5000,
                 values: [],
@@ -814,7 +814,7 @@ var servers = {
             {
                 icon: "Freud.png",
                 name: "Ch.17",
-                address: "202.80.89.87",
+                address: "202.80.104.87",
                 port: "8585",
                 interval: 5000,
                 values: [],
@@ -824,7 +824,7 @@ var servers = {
             {
                 icon: "Freud.png",
                 name: "Ch.18",
-                address: "202.80.89.87",
+                address: "202.80.104.87",
                 port: "8686",
                 interval: 5000,
                 values: [],
@@ -834,7 +834,7 @@ var servers = {
             {
                 icon: "Freud.png",
                 name: "Ch.19",
-                address: "202.80.89.88",
+                address: "202.80.104.88",
                 port: "8585",
                 interval: 5000,
                 values: [],
@@ -844,7 +844,7 @@ var servers = {
             {
                 icon: "Freud.png",
                 name: "Ch.20",
-                address: "202.80.89.88",
+                address: "202.80.104.88",
                 port: "8686",
                 interval: 5000,
                 values: [],
@@ -854,7 +854,7 @@ var servers = {
             {
                 icon: "Freud.png",
                 name: "Ch.21",
-                address: "202.80.89.89",
+                address: "202.80.104.89",
                 port: "8585",
                 interval: 5000,
                 values: [],
@@ -864,7 +864,7 @@ var servers = {
             {
                 icon: "Freud.png",
                 name: "Ch.22",
-                address: "202.80.89.89",
+                address: "202.80.104.89",
                 port: "8686",
                 interval: 5000,
                 values: [],
@@ -874,7 +874,7 @@ var servers = {
             {
                 icon: "Freud.png",
                 name: "Ch.23",
-                address: "202.80.89.90",
+                address: "202.80.104.90",
                 port: "8585",
                 interval: 5000,
                 values: [],
@@ -884,7 +884,7 @@ var servers = {
             {
                 icon: "Freud.png",
                 name: "Ch.24",
-                address: "202.80.89.90",
+                address: "202.80.104.90",
                 port: "8686",
                 interval: 5000,
                 values: [],
@@ -894,7 +894,7 @@ var servers = {
             {
                 icon: "Freud.png",
                 name: "Ch.25",
-                address: "202.80.89.91",
+                address: "202.80.104.91",
                 port: "8585",
                 interval: 5000,
                 values: [],
@@ -904,7 +904,7 @@ var servers = {
             {
                 icon: "Freud.png",
                 name: "Ch.26",
-                address: "202.80.89.91",
+                address: "202.80.104.91",
                 port: "8686",
                 interval: 5000,
                 values: [],
@@ -914,7 +914,7 @@ var servers = {
             {
                 icon: "Freud.png",
                 name: "Ch.27",
-                address: "202.80.89.92",
+                address: "202.80.104.92",
                 port: "8585",
                 interval: 5000,
                 values: [],
@@ -924,7 +924,7 @@ var servers = {
             {
                 icon: "Freud.png",
                 name: "Ch.28",
-                address: "202.80.89.92",
+                address: "202.80.104.92",
                 port: "8686",
                 interval: 5000,
                 values: [],
@@ -934,7 +934,7 @@ var servers = {
             {
                 icon: "Freud.png",
                 name: "Ch.29",
-                address: "202.80.89.93",
+                address: "202.80.104.93",
                 port: "8585",
                 interval: 5000,
                 values: [],
@@ -944,7 +944,7 @@ var servers = {
             {
                 icon: "Freud.png",
                 name: "Ch.30",
-                address: "202.80.89.93",
+                address: "202.80.104.93",
                 port: "8686",
                 interval: 5000,
                 values: [],
