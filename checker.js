@@ -2158,6 +2158,16 @@ var servers = {
                 values: [],
                 isMapleStoryGameServer: true,
                 rel: "Orca"
+            },
+            {
+                icon: "Orca.png",
+                name: "非公開頻道",
+                address: "202.80.104.37", 
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Orca"
             }
         ],
         Reboot: [
