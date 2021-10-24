@@ -112,7 +112,7 @@ var PingModel = function(servers) {
     var myServers = [];
     var offset = 1;
     ko.utils.arrayForEach(serversArr, function(server) {
-        if (!server.isMapleStoryGameServer || server.rel == subSelection || (server.rel == "Login" && (selected != 'GMS' && selected != 'MSEA'))) {
+        if (!server.isMapleStoryGameServer || server.rel == subSelection || (server.rel == "Login" && (selected != 'TMS' && (selected != 'GMS' && selected != 'MSEA')))) {
             myServers.push({
                 icon: server.icon,
                 name: server.name,
