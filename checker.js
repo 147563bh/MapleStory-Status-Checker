@@ -2731,40 +2731,15 @@ var servers = {
                 interval: 60000,
                 rel: "tw.beanfun.com"
             }
-        ],
-        ExternalWebsites: [{
-                icon: "Mushroom.png",
-                name: "MapleEurope",
-                address: "mapleeurope.com",
-                port: "80",
-                interval: 60000,
-                rel: "mapleeu.com"
-            },
+            ,
             {
-                icon: "fa-globe",
-                name: "Auth02",
-                sub: "NXEU",
-                address: "auth02.nexoneu.com",
-                port: "80",
+                icon: "Digicentre.png",
+                name: "果核數位",
+                sub: "",
+                address: "www.digicentre.com.tw",
+                port: "443",
                 interval: 60000,
-                rel: "nexoneu.com"
-            },
-            {
-                icon: "fa-external-link",
-                name: "Download",
-                sub: "MSE",
-                address: "download.mapleeurope.com",
-                port: "80",
-                interval: 60000,
-                rel: "mapleeu.com"
-            },
-            {
-                icon: "fa-external-link",
-                name: "Patch",
-                address: "patch.nexoneu.com",
-                port: "80",
-                interval: 60000,
-                rel: "nexoneu.com"
+                rel: "www.digicentre.com.tw"
             }
         ]
     },
@@ -6606,17 +6581,17 @@ var checker = {
                     servers.TMS.Reboot
                 ]),
                 {
-                    name: "Internal Sites",
-                    description: "These are pages which are hosted on Nexon Europe's own 109.234.73.* servers.",
+                    name: "Websites",
+                    description: "Websites",
                     icons: [{
-                            icon: "Mushroom.png",
-                            name: "mapleeu.com",
+                            icon: "Gamania.png",
+                            name: "tw.beanfun.com",
                             english: false,
                             sub: ""
                         },
                         {
                             icon: "Nexon.png",
-                            name: "nexoneu.com",
+                            name: "nexon.com",
                             english: false,
                             sub: "World"
                         }
@@ -6627,17 +6602,6 @@ var checker = {
                         ])
                     },
                     selectedServers: ko.observable(loadingArr)
-                },
-                {
-                    name: "External Sites",
-                    description: "These are pages which are hosted on external servers.",
-                    selectedServers: ko.observable(loadingArr),
-                    icons: [],
-                    content: function() {
-                        return new PingModel([
-                            servers.TMS.ExternalWebsites
-                        ])
-                    }
                 }
             ]
         },
