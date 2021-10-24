@@ -248,6 +248,1314 @@ var servers = {
             isMapleStoryGameServer: true,
             rel: "Login"
         }],
+        Aria: [
+            {
+                icon: "Aria.png",
+                name: "Ch.01",
+                address: "202.65.74.64",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Aria"
+            },
+            {
+                icon: "Aria.png",
+                name: "Ch.02",
+                address: "202.65.74.64",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Aria"
+            },
+            {
+                icon: "Aria.png",
+                name: "Ch.03",
+                address: "202.65.74.65",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Aria"
+            },
+            {
+                icon: "Aria.png",
+                name: "Ch.04",
+                address: "202.65.74.65",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Aria"
+            },
+            {
+                icon: "Aria.png",
+                name: "Ch.05",
+                address: "202.65.74.66",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Aria"
+            },
+            {
+                icon: "Aria.png",
+                name: "Ch.06",
+                address: "202.65.74.66",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Aria"
+            },
+            {
+                icon: "Aria.png",
+                name: "Ch.07",
+                address: "202.65.74.67",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Aria"
+            },
+            {
+                icon: "Aria.png",
+                name: "Ch.08",
+                address: "202.65.74.67",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Aria"
+            },
+            {
+                icon: "Aria.png",
+                name: "Ch.09",
+                address: "202.65.74.68",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Aria"
+            },
+            {
+                icon: "Aria.png",
+                name: "Ch.10",
+                address: "202.65.74.68",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Aria"
+            },
+            {
+                icon: "Aria.png",
+                name: "Ch.11",
+                address: "202.65.74.69",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Aria"
+            },
+            {
+                icon: "Aria.png",
+                name: "Ch.12",
+                address: "202.65.74.69",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Aria"
+            },
+            {
+                icon: "Aria.png",
+                name: "Ch.13",
+                address: "202.65.74.70",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Aria"
+            },
+            {
+                icon: "Aria.png",
+                name: "Ch.14",
+                address: "202.65.74.70",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Aria"
+            },
+            {
+                icon: "Aria.png",
+                name: "Ch.15",
+                address: "202.65.74.71",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Aria"
+            },
+            {
+                icon: "Aria.png",
+                name: "Ch.16",
+                address: "202.65.74.71",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Aria"
+            },
+            {
+                icon: "Aria.png",
+                name: "Ch.17",
+                address: "202.65.74.72",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Aria"
+            },
+            {
+                icon: "Aria.png",
+                name: "Ch.18",
+                address: "202.65.74.72",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Aria"
+            },
+            {
+                icon: "Aria.png",
+                name: "Ch.19",
+                address: "202.65.74.73",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Aria"
+            },
+            {
+                icon: "Aria.png",
+                name: "Ch.20",
+                address: "202.65.74.73",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Aria"
+            },
+            {
+                icon: "Aria.png",
+                name: "Ch.21",
+                address: "202.65.74.74",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Aria"
+            },
+            {
+                icon: "Aria.png",
+                name: "Ch.22",
+                address: "202.65.74.74",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Aria"
+            },
+            {
+                icon: "Aria.png",
+                name: "Ch.23",
+                address: "202.65.74.75",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Aria"
+            },
+            {
+                icon: "Aria.png",
+                name: "Ch.24",
+                address: "202.65.74.75",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Aria"
+            },
+            {
+                icon: "Aria.png",
+                name: "Ch.25",
+                address: "202.65.74.76",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Aria"
+            },
+            {
+                icon: "Aria.png",
+                name: "Ch.26",
+                address: "202.65.74.76",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Aria"
+            },
+            {
+                icon: "Aria.png",
+                name: "Ch.27",
+                address: "202.65.74.77",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Aria"
+            },
+            {
+                icon: "Aria.png",
+                name: "Ch.28",
+                address: "202.65.74.77",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Aria"
+            },
+            {
+                icon: "Aria.png",
+                name: "Ch.29",
+                address: "202.65.74.78",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Aria"
+            },
+            {
+                icon: "Aria.png",
+                name: "Ch.30",
+                address: "202.65.74.78",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Aria"
+            },
+            {
+                icon: "Aria.png",
+                name: "Ch.31",
+                address: "202.65.74.154",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Aria"
+            },
+            {
+                icon: "Aria.png",
+                name: "Ch.32",
+                address: "202.65.74.154",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Aria"
+            },
+            {
+                icon: "Aria.png",
+                name: "Ch.33",
+                address: "202.65.74.155",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Aria"
+            },
+            {
+                icon: "Aria.png",
+                name: "Ch.34",
+                address: "202.65.74.155",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Aria"
+            },
+            {
+                icon: "Aria.png",
+                name: "Ch.35",
+                address: "202.65.74.156",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Aria"
+            },
+            {
+                icon: "Aria.png",
+                name: "Ch.36",
+                address: "202.65.74.156",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Aria"
+            },
+            {
+                icon: "Aria.png",
+                name: "Ch.37",
+                address: "202.65.74.157",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Aria"
+            },
+            {
+                icon: "Aria.png",
+                name: "Ch.38",
+                address: "202.65.74.157",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Aria"
+            },
+            {
+                icon: "Aria.png",
+                name: "Ch.39",
+                address: "202.65.74.158",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Aria"
+            },
+            {
+                icon: "Aria.png",
+                name: "Ch.40",
+                address: "202.65.74.158",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Aria"
+            }
+        ],
+        Freud: [
+            {
+                icon: "Freud.png",
+                name: "Ch.01",
+                address: "202.80.89.79",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Freud"
+            },
+            {
+                icon: "Freud.png",
+                name: "Ch.02",
+                address: "202.80.89.79",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Freud"
+            },
+            {
+                icon: "Freud.png",
+                name: "Ch.03",
+                address: "202.80.89.80",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Freud"
+            },
+            {
+                icon: "Freud.png",
+                name: "Ch.04",
+                address: "202.80.89.80",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Freud"
+            },
+            {
+                icon: "Freud.png",
+                name: "Ch.05",
+                address: "202.80.89.81",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Freud"
+            },
+            {
+                icon: "Freud.png",
+                name: "Ch.06",
+                address: "202.80.89.81",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Freud"
+            },
+            {
+                icon: "Freud.png",
+                name: "Ch.07",
+                address: "202.80.89.82",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Freud"
+            },
+            {
+                icon: "Freud.png",
+                name: "Ch.08",
+                address: "202.80.89.82",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Freud"
+            },
+            {
+                icon: "Freud.png",
+                name: "Ch.09",
+                address: "202.80.89.83",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Freud"
+            },
+            {
+                icon: "Freud.png",
+                name: "Ch.10",
+                address: "202.80.89.83",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Freud"
+            },
+            {
+                icon: "Freud.png",
+                name: "Ch.11",
+                address: "202.80.89.84",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Freud"
+            },
+            {
+                icon: "Freud.png",
+                name: "Ch.12",
+                address: "202.80.89.84",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Freud"
+            },
+            {
+                icon: "Freud.png",
+                name: "Ch.13",
+                address: "202.80.89.85",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Freud"
+            },
+            {
+                icon: "Freud.png",
+                name: "Ch.14",
+                address: "202.80.89.85",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Freud"
+            },
+            {
+                icon: "Freud.png",
+                name: "Ch.15",
+                address: "202.80.89.86",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Freud"
+            },
+            {
+                icon: "Freud.png",
+                name: "Ch.16",
+                address: "202.80.89.86",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Freud"
+            },
+            {
+                icon: "Freud.png",
+                name: "Ch.17",
+                address: "202.80.89.87",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Freud"
+            },
+            {
+                icon: "Freud.png",
+                name: "Ch.18",
+                address: "202.80.89.87",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Freud"
+            },
+            {
+                icon: "Freud.png",
+                name: "Ch.19",
+                address: "202.80.89.88",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Freud"
+            },
+            {
+                icon: "Freud.png",
+                name: "Ch.20",
+                address: "202.80.89.88",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Freud"
+            },
+            {
+                icon: "Freud.png",
+                name: "Ch.21",
+                address: "202.80.89.89",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Freud"
+            },
+            {
+                icon: "Freud.png",
+                name: "Ch.22",
+                address: "202.80.89.89",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Freud"
+            },
+            {
+                icon: "Freud.png",
+                name: "Ch.23",
+                address: "202.80.89.90",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Freud"
+            },
+            {
+                icon: "Freud.png",
+                name: "Ch.24",
+                address: "202.80.89.90",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Freud"
+            },
+            {
+                icon: "Freud.png",
+                name: "Ch.25",
+                address: "202.80.89.91",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Freud"
+            },
+            {
+                icon: "Freud.png",
+                name: "Ch.26",
+                address: "202.80.89.91",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Freud"
+            },
+            {
+                icon: "Freud.png",
+                name: "Ch.27",
+                address: "202.80.89.92",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Freud"
+            },
+            {
+                icon: "Freud.png",
+                name: "Ch.28",
+                address: "202.80.89.92",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Freud"
+            },
+            {
+                icon: "Freud.png",
+                name: "Ch.29",
+                address: "202.80.89.93",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Freud"
+            },
+            {
+                icon: "Freud.png",
+                name: "Ch.30",
+                address: "202.80.89.93",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Freud"
+            }
+        ],
+        Ryude: [
+            {
+                icon: "Ryude.png",
+                name: "Ch.01",
+                address: "202.80.104.94",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Ryude"
+            },
+            {
+                icon: "Ryude.png",
+                name: "Ch.02",
+                address: "202.80.104.94",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Ryude"
+            },
+            {
+                icon: "Ryude.png",
+                name: "Ch.03",
+                address: "202.80.104.95",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Ryude"
+            },
+            {
+                icon: "Ryude.png",
+                name: "Ch.04",
+                address: "202.80.104.95",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Ryude"
+            },
+            {
+                icon: "Ryude.png",
+                name: "Ch.05",
+                address: "202.80.104.96",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Ryude"
+            },
+            {
+                icon: "Ryude.png",
+                name: "Ch.06",
+                address: "202.80.104.96",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Ryude"
+            },
+            {
+                icon: "Ryude.png",
+                name: "Ch.07",
+                address: "202.80.104.97",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Ryude"
+            },
+            {
+                icon: "Ryude.png",
+                name: "Ch.08",
+                address: "202.80.104.97",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Ryude"
+            },
+            {
+                icon: "Ryude.png",
+                name: "Ch.09",
+                address: "202.80.104.98",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Ryude"
+            },
+            {
+                icon: "Ryude.png",
+                name: "Ch.10",
+                address: "202.80.104.98",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Ryude"
+            },
+            {
+                icon: "Ryude.png",
+                name: "Ch.11",
+                address: "202.80.104.99",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Ryude"
+            },
+            {
+                icon: "Ryude.png",
+                name: "Ch.12",
+                address: "202.80.104.99",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Ryude"
+            },
+            {
+                icon: "Ryude.png",
+                name: "Ch.13",
+                address: "202.80.104.100",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Ryude"
+            },
+            {
+                icon: "Ryude.png",
+                name: "Ch.14",
+                address: "202.80.104.100",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Ryude"
+            },
+            {
+                icon: "Ryude.png",
+                name: "Ch.15",
+                address: "202.80.104.101",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Ryude"
+            },
+            {
+                icon: "Ryude.png",
+                name: "Ch.16",
+                address: "202.80.104.101",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Ryude"
+            },
+            {
+                icon: "Ryude.png",
+                name: "Ch.17",
+                address: "202.80.104.102",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Ryude"
+            },
+            {
+                icon: "Ryude.png",
+                name: "Ch.18",
+                address: "202.80.104.102",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Ryude"
+            },
+            {
+                icon: "Ryude.png",
+                name: "Ch.19",
+                address: "202.80.104.103",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Ryude"
+            },
+            {
+                icon: "Ryude.png",
+                name: "Ch.20",
+                address: "202.80.104.103",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Ryude"
+            },
+            {
+                icon: "Ryude.png",
+                name: "Ch.21",
+                address: "202.80.104.104",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Ryude"
+            },
+            {
+                icon: "Ryude.png",
+                name: "Ch.22",
+                address: "202.80.104.104",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Ryude"
+            },
+            {
+                icon: "Ryude.png",
+                name: "Ch.23",
+                address: "202.80.104.105",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Ryude"
+            },
+            {
+                icon: "Ryude.png",
+                name: "Ch.24",
+                address: "202.80.104.105",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Ryude"
+            },
+            {
+                icon: "Ryude.png",
+                name: "Ch.25",
+                address: "202.80.104.106",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Ryude"
+            },
+            {
+                icon: "Ryude.png",
+                name: "Ch.26",
+                address: "202.80.104.106",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Ryude"
+            },
+            {
+                icon: "Ryude.png",
+                name: "Ch.27",
+                address: "202.80.104.107",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Ryude"
+            },
+            {
+                icon: "Ryude.png",
+                name: "Ch.28",
+                address: "202.80.104.107",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Ryude"
+            },
+            {
+                icon: "Ryude.png",
+                name: "Ch.29",
+                address: "202.80.104.108",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Ryude"
+            },
+            {
+                icon: "Ryude.png",
+                name: "Ch.30",
+                address: "202.80.104.108",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Ryude"
+            }
+        ],
+        Rhinne: [
+            {
+                icon: "Rhinne.png",
+                name: "Ch.01",
+                address: "202.80.104.109",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Rhinne"
+            },
+            {
+                icon: "Rhinne.png",
+                name: "Ch.02",
+                address: "202.80.104.109",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Rhinne"
+            },
+            {
+                icon: "Rhinne.png",
+                name: "Ch.03",
+                address: "202.80.104.110",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Rhinne"
+            },
+            {
+                icon: "Rhinne.png",
+                name: "Ch.04",
+                address: "202.80.104.110",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Rhinne"
+            },
+            {
+                icon: "Rhinne.png",
+                name: "Ch.05",
+                address: "202.80.104.111",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Rhinne"
+            },
+            {
+                icon: "Rhinne.png",
+                name: "Ch.06",
+                address: "202.80.104.111",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Rhinne"
+            },
+            {
+                icon: "Rhinne.png",
+                name: "Ch.07",
+                address: "202.80.104.112",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Rhinne"
+            },
+            {
+                icon: "Rhinne.png",
+                name: "Ch.08",
+                address: "202.80.104.112",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Rhinne"
+            },
+            {
+                icon: "Rhinne.png",
+                name: "Ch.09",
+                address: "202.80.104.113",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Rhinne"
+            },
+            {
+                icon: "Rhinne.png",
+                name: "Ch.10",
+                address: "202.80.104.113",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Rhinne"
+            },
+            {
+                icon: "Rhinne.png",
+                name: "Ch.11",
+                address: "202.80.104.114",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Rhinne"
+            },
+            {
+                icon: "Rhinne.png",
+                name: "Ch.12",
+                address: "202.80.104.114",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Rhinne"
+            },
+            {
+                icon: "Rhinne.png",
+                name: "Ch.13",
+                address: "202.80.104.115",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Rhinne"
+            },
+            {
+                icon: "Rhinne.png",
+                name: "Ch.14",
+                address: "202.80.104.115",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Rhinne"
+            },
+            {
+                icon: "Rhinne.png",
+                name: "Ch.15",
+                address: "202.80.104.116",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Rhinne"
+            },
+            {
+                icon: "Rhinne.png",
+                name: "Ch.16",
+                address: "202.80.104.116",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Rhinne"
+            },
+            {
+                icon: "Rhinne.png",
+                name: "Ch.17",
+                address: "202.80.104.117",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Rhinne"
+            },
+            {
+                icon: "Rhinne.png",
+                name: "Ch.18",
+                address: "202.80.104.117",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Rhinne"
+            },
+            {
+                icon: "Rhinne.png",
+                name: "Ch.19",
+                address: "202.80.104.118",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Rhinne"
+            },
+            {
+                icon: "Rhinne.png",
+                name: "Ch.20",
+                address: "202.80.104.118",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Rhinne"
+            },
+            {
+                icon: "Rhinne.png",
+                name: "Ch.21",
+                address: "202.80.104.119",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Rhinne"
+            },
+            {
+                icon: "Rhinne.png",
+                name: "Ch.22",
+                address: "202.80.104.119",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Rhinne"
+            },
+            {
+                icon: "Rhinne.png",
+                name: "Ch.23",
+                address: "202.80.104.120",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Rhinne"
+            },
+            {
+                icon: "Rhinne.png",
+                name: "Ch.24",
+                address: "202.80.104.120",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Rhinne"
+            },
+            {
+                icon: "Rhinne.png",
+                name: "Ch.25",
+                address: "202.80.104.121",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Rhinne"
+            },
+            {
+                icon: "Rhinne.png",
+                name: "Ch.26",
+                address: "202.80.104.121",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Rhinne"
+            },
+            {
+                icon: "Rhinne.png",
+                name: "Ch.27",
+                address: "202.80.104.122",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Rhinne"
+            },
+            {
+                icon: "Rhinne.png",
+                name: "Ch.28",
+                address: "202.80.104.122",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Rhinne"
+            },
+            {
+                icon: "Rhinne.png",
+                name: "Ch.29",
+                address: "202.80.104.123",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Rhinne"
+            },
+            {
+                icon: "Rhinne.png",
+                name: "Ch.30",
+                address: "202.80.104.123",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Rhinne"
+            }
+        ],
         Alicia: [
             {
                 icon: "Alicia.png",
@@ -850,6 +2158,308 @@ var servers = {
                 values: [],
                 isMapleStoryGameServer: true,
                 rel: "Orca"
+            }
+        ],
+        Reboot: [
+            {
+                icon: "Reboot.png",
+                name: "Ch.01",
+                address: "202.80.104.164",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Reboot"
+            },
+            {
+                icon: "Reboot.png",
+                name: "Ch.02",
+                address: "202.80.104.164",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Reboot"
+            },
+            {
+                icon: "Reboot.png",
+                name: "Ch.03",
+                address: "202.80.104.165",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Reboot"
+            },
+            {
+                icon: "Reboot.png",
+                name: "Ch.04",
+                address: "202.80.104.165",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Reboot"
+            },
+            {
+                icon: "Reboot.png",
+                name: "Ch.05",
+                address: "202.80.104.166",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Reboot"
+            },
+            {
+                icon: "Reboot.png",
+                name: "Ch.06",
+                address: "202.80.104.166",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Reboot"
+            },
+            {
+                icon: "Reboot.png",
+                name: "Ch.07",
+                address: "202.80.104.167",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Reboot"
+            },
+            {
+                icon: "Reboot.png",
+                name: "Ch.08",
+                address: "202.80.104.167",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Reboot"
+            },
+            {
+                icon: "Reboot.png",
+                name: "Ch.09",
+                address: "202.80.104.168",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Reboot"
+            },
+            {
+                icon: "Reboot.png",
+                name: "Ch.10",
+                address: "202.80.104.168",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Reboot"
+            },
+            {
+                icon: "Reboot.png",
+                name: "Ch.11",
+                address: "202.80.104.169",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Reboot"
+            },
+            {
+                icon: "Reboot.png",
+                name: "Ch.12",
+                address: "202.80.104.169",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Reboot"
+            },
+            {
+                icon: "Reboot.png",
+                name: "Ch.13",
+                address: "202.80.104.170",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Reboot"
+            },
+            {
+                icon: "Reboot.png",
+                name: "Ch.14",
+                address: "202.80.104.170",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Reboot"
+            },
+            {
+                icon: "Reboot.png",
+                name: "Ch.15",
+                address: "202.80.104.171",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Reboot"
+            },
+            {
+                icon: "Reboot.png",
+                name: "Ch.16",
+                address: "202.80.104.171",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Reboot"
+            },
+            {
+                icon: "Reboot.png",
+                name: "Ch.17",
+                address: "202.80.104.172",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Reboot"
+            },
+            {
+                icon: "Reboot.png",
+                name: "Ch.18",
+                address: "202.80.104.172",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Reboot"
+            },
+            {
+                icon: "Reboot.png",
+                name: "Ch.19",
+                address: "202.80.104.173",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Reboot"
+            },
+            {
+                icon: "Reboot.png",
+                name: "Ch.20",
+                address: "202.80.104.173",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Reboot"
+            },
+            {
+                icon: "Reboot.png",
+                name: "Ch.21",
+                address: "202.80.104.174",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Reboot"
+            },
+            {
+                icon: "Reboot.png",
+                name: "Ch.22",
+                address: "202.80.104.174",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Reboot"
+            },
+            {
+                icon: "Reboot.png",
+                name: "Ch.23",
+                address: "202.80.104.175",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Reboot"
+            },
+            {
+                icon: "Reboot.png",
+                name: "Ch.24",
+                address: "202.80.104.175",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Reboot"
+            },
+            {
+                icon: "Reboot.png",
+                name: "Ch.25",
+                address: "202.80.104.176",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Reboot"
+            },
+            {
+                icon: "Reboot.png",
+                name: "Ch.26",
+                address: "202.80.104.176",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Reboot"
+            },
+            {
+                icon: "Reboot.png",
+                name: "Ch.27",
+                address: "202.80.104.177",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Reboot"
+            },
+            {
+                icon: "Reboot.png",
+                name: "Ch.28",
+                address: "202.80.104.177",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Reboot"
+            },
+            {
+                icon: "Reboot.png",
+                name: "Ch.29",
+                address: "202.80.104.178",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Reboot"
+            },
+            {
+                icon: "Reboot.png",
+                name: "Ch.30",
+                address: "202.80.104.178",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Reboot"
             }
         ],
         Supreme: [{
@@ -4729,6 +6339,12 @@ var checker = {
                         name: "Orca",
                         english: false,
                         sub: "World"
+                    },
+                    {
+                        icon: "Reboot.png",
+                        name: "Reboot",
+                        english: false,
+                        sub: "World"
                     }
                 ], [
                     servers.TMS.Login,
@@ -4738,7 +6354,8 @@ var checker = {
                     servers.TMS.Ryude,
                     servers.TMS.Rhinne,
                     servers.TMS.Alicia,
-                    servers.TMS.Orca
+                    servers.TMS.Orca,
+                    servers.TMS.Reboot
                 ]),
                 {
                     name: "Internal Sites",
