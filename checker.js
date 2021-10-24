@@ -4330,7 +4330,7 @@ var checker = {
             name: "MapleStory Taiwan",
             available: true,
             complete: true,
-            icon: "Luna.png",
+            icon: "Orca.png",
             short: "Taiwan",
             serverCount: [
                 5,
@@ -4345,7 +4345,7 @@ var checker = {
                         sub: ""
                     },
                     {
-                        icon: "Luna.png",
+                        icon: "Orca.png",
                         name: "Orca",
                         english: false,
                         sub: "World"
