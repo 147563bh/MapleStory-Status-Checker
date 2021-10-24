@@ -198,7 +198,18 @@ var servers = {
             isMapleStoryGameServer: true,
             rel: "Login"
         }],
-        Orca: [{
+        Orca: [
+            {
+                icon: "Luna.png",
+                name: "Channel 00",
+                address: "202.80.104.149",
+                port: "80",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Orca"
+            },
+            {
                 icon: "Luna.png",
                 name: "Channel 22",
                 address: "202.80.104.149",
