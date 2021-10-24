@@ -4043,7 +4043,95 @@ var checker = {
     modifySettings: ModifySettings,
     defaultSettings: DefaultSettings,
     getServersCountForApplication: GetServersCountForApplication,
-    versions: [{
+    versions: [
+        {
+            abbr: "TMS",
+            name: "MapleStory Taiwan",
+            available: true,
+            complete: true,
+            icon: "Luna.png",
+            short: "Taiwan",
+            serverCount: [
+                5,
+                1,
+                1
+            ],
+            applications: [
+                GameServer("Taiwan", 1, [{
+                        icon: "Mushroom.png",
+                        name: "Login",
+                        english: false,
+                        sub: ""
+                    },
+                    {
+                        icon: "Luna.png",
+                        name: "Luna",
+                        english: false,
+                        sub: "World"
+                    },
+                    {
+                        icon: "Kradia.png",
+                        name: "Kradia",
+                        english: false,
+                        sub: "World"
+                    },
+                    {
+                        icon: "Demethos.png",
+                        name: "Demethos",
+                        english: false,
+                        sub: "World"
+                    },
+                    {
+                        icon: "Supreme.png",
+                        name: "Supreme",
+                        english: false,
+                        sub: "World"
+                    }
+                ], [
+                    servers.TMS.Login,
+                    servers.TMS.StarPlanet,
+                    servers.TMS.Luna,
+                    servers.TMS.Kradia,
+                    servers.TMS.Demethos,
+                    servers.TMS.Supreme
+                ]),
+                {
+                    name: "Internal Sites",
+                    description: "These are pages which are hosted on Nexon Europe's own 109.234.73.* servers.",
+                    icons: [{
+                            icon: "Mushroom.png",
+                            name: "mapleeu.com",
+                            english: false,
+                            sub: ""
+                        },
+                        {
+                            icon: "Nexon.png",
+                            name: "nexoneu.com",
+                            english: false,
+                            sub: "World"
+                        }
+                    ],
+                    content: function() {
+                        return new PingModel([
+                            servers.TMS.InternalWebsites
+                        ])
+                    },
+                    selectedServers: ko.observable(loadingArr)
+                },
+                {
+                    name: "External Sites",
+                    description: "These are pages which are hosted on external servers.",
+                    selectedServers: ko.observable(loadingArr),
+                    icons: [],
+                    content: function() {
+                        return new PingModel([
+                            servers.TMS.ExternalWebsites
+                        ])
+                    }
+                }
+            ]
+        },
+        {
             abbr: "EMS",
             name: "MapleStory Europe",
             available: true,
