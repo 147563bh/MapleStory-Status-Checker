@@ -4442,8 +4442,8 @@ var checker = {
         {
             abbr: "EMS",
             name: "MapleStory Europe",
-            available: true,
-            complete: true,
+            available: false,
+            complete: false,
             icon: "Luna.png",
             short: "EUROPE",
             serverCount: [
