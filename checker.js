@@ -212,7 +212,7 @@ var servers = {
                 icon: "Luna.png",
                 name: "Channel 23",
                 address: "202.80.104.150",
-                port: "8686",
+                port: "8585",
                 interval: 5000,
                 values: [],
                 isMapleStoryGameServer: true,
