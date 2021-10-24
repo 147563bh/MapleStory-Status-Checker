@@ -20,7 +20,7 @@
 				<span class="select-text">Select a MapleStory version:</span>
 				<ul data-bind="foreach: versions">
 					<li data-bind="css: { active: abbr == $root.selected() }">
-						<a href="#" role="button" data-bind="attr: { href: available ? '#' + abbr + '-' + $root.getDefaultSubSelectionForVersion(abbr) : '', title: available ? name : 'Coming Soon!' }, css: { disabled: !available }, click: function() { if (available) { if (window.stop) { window.stop(); } else if (document.execCommand) { document.execCommand('Stop'); }; window.location.hash = '#' + abbr + '-' + $root.getDefaultSubSelectionForVersion(abbr); window.location.reload(); } else { return false; } }">
+						<a href="#" role="button" data-bind="attr: { href: available ? '#' + abbr + '-' + $root.getDefaultSubSelectionForVersion(abbr) : '', title: available ? name : 'Stop maintenance!' }, css: { disabled: !available }, click: function() { if (available) { if (window.stop) { window.stop(); } else if (document.execCommand) { document.execCommand('Stop'); }; window.location.hash = '#' + abbr + '-' + $root.getDefaultSubSelectionForVersion(abbr); window.location.reload(); } else { return false; } }">
 							<img data-bind="attr: { src: 'icons/' + icon }" />
 							<span class="short-name" data-bind="text: short"></span>
 							<span class="abbr-name" data-bind="text: abbr"></span>
@@ -56,12 +56,12 @@
 						<p>Begin by selecting the version of the game you want to check from the very top of the page or from the below list:</p>
 						<ul data-bind="foreach: versions" class="versions-list">
 							<li>
-								<a href="#" role="button" data-bind="attr: { href: available ? '#' + abbr + '-' + $root.getDefaultSubSelectionForVersion(abbr) : '', title: available ? name : 'Coming Soon!' }, css: { disabled: !available }, click: function() { if (available) { if (window.stop) { window.stop(); } else if (document.execCommand) { document.execCommand('Stop'); }; window.location.hash = '#' + abbr + '-' + $root.getDefaultSubSelectionForVersion(abbr); window.location.reload(); } else { return false; } }">
+								<a href="#" role="button" data-bind="attr: { href: available ? '#' + abbr + '-' + $root.getDefaultSubSelectionForVersion(abbr) : '', title: available ? name : 'Stop maintenance!' }, css: { disabled: !available }, click: function() { if (available) { if (window.stop) { window.stop(); } else if (document.execCommand) { document.execCommand('Stop'); }; window.location.hash = '#' + abbr + '-' + $root.getDefaultSubSelectionForVersion(abbr); window.location.reload(); } else { return false; } }">
 									<img data-bind="attr: { src: 'icons/' + icon }" />
 									<span class="short-name" data-bind="text: short"></span>
 								</a>
 								<!-- ko if: !available -->
-								<span class="notice">&mdash; Coming soon</span>
+								<span class="notice">&mdash; Stop maintenance</span>
 								<!-- /ko -->
 								<!-- ko if: available && !complete -->
 								<span class="notice">&mdash; Partially complete</span>
