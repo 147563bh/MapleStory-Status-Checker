@@ -4377,7 +4377,7 @@ var checker = {
     versions: [
         {
             abbr: "TMS",
-            name: "MapleStory Taiwan <small>(台灣)</small>",
+            name: "MapleStory Taiwan (台灣)",
             available: true,
             complete: false,
             icon: "Orca.png",
@@ -4441,7 +4441,7 @@ var checker = {
         },
         {
             abbr: "GMS",
-            name: "MapleStory North America <small>(Global)</small>",
+            name: "MapleStory North America (Global)",
             available: true,
             complete: false,
             icon: "Scania.png",
@@ -4610,7 +4610,7 @@ var checker = {
         },
         {
             abbr: "JMS",
-            name: "MapleStory Japan <small>日本</small>",
+            name: "MapleStory Japan 日本",
             available: false,
             complete: false,
             icon: "Galicia.png",
@@ -4620,7 +4620,7 @@ var checker = {
         },
         {
             abbr: "KMS",
-            name: "MapleStory Korea <small>(한국)</small>",
+            name: "MapleStory Korea (한국)",
             available: true,
             complete: false,
             icon: "Mushroom.png",
