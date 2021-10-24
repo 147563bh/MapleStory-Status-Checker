@@ -21,7 +21,7 @@ var checkTimeout = 5000,
 if (hash.length) {
     switch (hash[0]) {
         case "#TMS":
-        case "#EMS":
+            //case "#EMS":
         case "#GMS":
             //case "#JMS":
         case "#KMS":
