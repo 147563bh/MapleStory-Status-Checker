@@ -4695,6 +4695,36 @@ var checker = {
                         sub: ""
                     },
                     {
+                        icon: "Aria.png",
+                        name: "Aria",
+                        english: false,
+                        sub: "World"
+                    },
+                    {
+                        icon: "Freud.png",
+                        name: "Freud",
+                        english: false,
+                        sub: "World"
+                    },
+                    {
+                        icon: "Ryude.png",
+                        name: "Ryude",
+                        english: false,
+                        sub: "World"
+                    },
+                    {
+                        icon: "Rhinne.png",
+                        name: "Rhinne",
+                        english: false,
+                        sub: "World"
+                    },
+                    {
+                        icon: "Alicia.png",
+                        name: "Alicia",
+                        english: false,
+                        sub: "World"
+                    },
+                    {
                         icon: "Orca.png",
                         name: "Orca",
                         english: false,
@@ -4703,6 +4733,11 @@ var checker = {
                 ], [
                     servers.TMS.Login,
                     servers.TMS.StarPlanet,
+                    servers.TMS.Aria,
+                    servers.TMS.Freud,
+                    servers.TMS.Ryude,
+                    servers.TMS.Rhinne,
+                    servers.TMS.Alicia,
                     servers.TMS.Orca
                 ]),
                 {
