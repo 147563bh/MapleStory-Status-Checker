@@ -2706,6 +2706,24 @@ var servers = {
         ],
         InternalWebsites: [{
                 icon: "Mushroom.png",
+                name: "新楓之谷",
+                address: "maplestory.beanfun.com",
+                port: "443",
+                interval: 60000,
+                rel: "mapleeu.com"
+            },
+            {
+                icon: "Gamania.png",
+                name: "遊戲橘子",
+                sub: "Gamania",
+                address: "tw.beanfun.com",
+                port: "443",
+                interval: 60000,
+                rel: "nexoneu.com"
+            }
+        ],
+        ExternalWebsites: [{
+                icon: "Mushroom.png",
                 name: "MapleEurope",
                 address: "mapleeurope.com",
                 port: "80",
@@ -2720,9 +2738,8 @@ var servers = {
                 port: "80",
                 interval: 60000,
                 rel: "nexoneu.com"
-            }
-        ],
-        ExternalWebsites: [{
+            },
+            {
                 icon: "fa-external-link",
                 name: "Download",
                 sub: "MSE",
