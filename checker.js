@@ -200,17 +200,217 @@ var servers = {
         }],
         Orca: [
             {
-                icon: "Luna.png",
-                name: "Channel 00",
-                address: "202.80.104.149",
-                port: "80",
+                icon: "Orca.png",
+                name: "Channel 01",
+                address: "202.80.104.139",
+                port: "8585",
                 interval: 5000,
                 values: [],
                 isMapleStoryGameServer: true,
                 rel: "Orca"
             },
             {
-                icon: "Luna.png",
+                icon: "Orca.png",
+                name: "Channel 02",
+                address: "202.80.104.139",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Orca"
+            },
+            {
+                icon: "Orca.png",
+                name: "Channel 03",
+                address: "202.80.104.140",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Orca"
+            },
+            {
+                icon: "Orca.png",
+                name: "Channel 04",
+                address: "202.80.104.140",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Orca"
+            },
+            {
+                icon: "Orca.png",
+                name: "Channel 05",
+                address: "202.80.104.141",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Orca"
+            },
+            {
+                icon: "Orca.png",
+                name: "Channel 06",
+                address: "202.80.104.141",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Orca"
+            },
+            {
+                icon: "Orca.png",
+                name: "Channel 07",
+                address: "202.80.104.142",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Orca"
+            },
+            {
+                icon: "Orca.png",
+                name: "Channel 08",
+                address: "202.80.104.142",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Orca"
+            },
+            {
+                icon: "Orca.png",
+                name: "Channel 09",
+                address: "202.80.104.143",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Orca"
+            },
+            {
+                icon: "Orca.png",
+                name: "Channel 10",
+                address: "202.80.104.143",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Orca"
+            },
+            {
+                icon: "Orca.png",
+                name: "Channel 11",
+                address: "202.80.104.144",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Orca"
+            },
+            {
+                icon: "Orca.png",
+                name: "Channel 12",
+                address: "202.80.104.144",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Orca"
+            },
+            {
+                icon: "Orca.png",
+                name: "Channel 13",
+                address: "202.80.104.145",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Orca"
+            },
+            {
+                icon: "Orca.png",
+                name: "Channel 14",
+                address: "202.80.104.145",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Orca"
+            },
+            {
+                icon: "Orca.png",
+                name: "Channel 15",
+                address: "202.80.104.146",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Orca"
+            },
+            {
+                icon: "Orca.png",
+                name: "Channel 16",
+                address: "202.80.104.146",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Orca"
+            },
+            {
+                icon: "Orca.png",
+                name: "Channel 17",
+                address: "202.80.104.147",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Orca"
+            },
+            {
+                icon: "Orca.png",
+                name: "Channel 18",
+                address: "202.80.104.147",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Orca"
+            },
+            {
+                icon: "Orca.png",
+                name: "Channel 19",
+                address: "202.80.104.148",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Orca"
+            },
+            {
+                icon: "Orca.png",
+                name: "Channel 20",
+                address: "202.80.104.148",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Orca"
+            },
+            {
+                icon: "Orca.png",
+                name: "Channel 21",
+                address: "202.80.104.149",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Orca"
+            },
+            {
+                icon: "Orca.png",
                 name: "Channel 22",
                 address: "202.80.104.149",
                 port: "8686",
@@ -220,10 +420,80 @@ var servers = {
                 rel: "Orca"
             },
             {
-                icon: "Luna.png",
+                icon: "Orca.png",
                 name: "Channel 23",
                 address: "202.80.104.150",
                 port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Orca"
+            },
+            {
+                icon: "Luna.png",
+                name: "Channel 24",
+                address: "202.80.104.150",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Orca"
+            },
+            {
+                icon: "Orca.png",
+                name: "Channel 25",
+                address: "202.80.104.151",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Orca"
+            },
+            {
+                icon: "Luna.png",
+                name: "Channel 26",
+                address: "202.80.104.151",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Orca"
+            },
+            {
+                icon: "Orca.png",
+                name: "Channel 27",
+                address: "202.80.104.152",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Orca"
+            },
+            {
+                icon: "Luna.png",
+                name: "Channel 28",
+                address: "202.80.104.152",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Orca"
+            },
+            {
+                icon: "Orca.png",
+                name: "Channel 29",
+                address: "202.80.104.153",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Orca"
+            },
+            {
+                icon: "Luna.png",
+                name: "Channel 30",
+                address: "202.80.104.153",
+                port: "8686",
                 interval: 5000,
                 values: [],
                 isMapleStoryGameServer: true,
