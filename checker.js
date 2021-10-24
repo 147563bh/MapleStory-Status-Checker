@@ -2704,27 +2704,6 @@ var servers = {
                 rel: "Reboot"
             }
         ],
-        Supreme: [{
-                icon: "Supreme.png",
-                name: "Channel 1",
-                address: "109.234.77.38",
-                port: "8597",
-                interval: 5000,
-                values: [],
-                isMapleStoryGameServer: true,
-                rel: "Supreme"
-            },
-            {
-                icon: "Supreme.png",
-                name: "Cash Shop",
-                address: "109.234.77.13",
-                port: "8791",
-                interval: 5000,
-                values: [],
-                isMapleStoryGameServer: true,
-                rel: "Supreme"
-            }
-        ],
         InternalWebsites: [{
                 icon: "Mushroom.png",
                 name: "MapleEurope",
@@ -6587,12 +6566,6 @@ var checker = {
                         name: "Reboot",
                         english: false,
                         sub: "World"
-                    },
-                    {
-                        icon: "Supreme.png",
-                        name: "Supreme",
-                        english: false,
-                        sub: "World"
                     }
                 ], [
                     servers.TMS.Login,
@@ -6603,8 +6576,7 @@ var checker = {
                     servers.TMS.Rhinne,
                     servers.TMS.Alicia,
                     servers.TMS.Orca,
-                    servers.TMS.Reboot,
-                    servers.TMS.Supreme
+                    servers.TMS.Reboot
                 ]),
                 {
                     name: "Internal Sites",
