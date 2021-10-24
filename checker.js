@@ -4336,7 +4336,7 @@ var checker = {
                 10
             ],
             applications: [
-                GameServer("Taiwan", 1, [{
+                GameServer("Taiwan", 8, [{
                         icon: "Mushroom.png",
                         name: "Login",
                         english: false,
