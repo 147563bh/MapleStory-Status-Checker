@@ -171,14 +171,125 @@ var servers = {
     TMS: {
         Login: [{
             icon: "Mushroom.png",
-            name: "Login",
-            address: "109.234.77.11",
+            name: "登入 1",
+            address: "202.80.104.20",
             port: "8484",
             interval: 5000,
             values: [],
             isMapleStoryGameServer: true,
             rel: "Login"
-        }],
+        },
+        {
+            icon: "Mushroom.png",
+            name: "登入 ",
+            address: "202.80.104.21",
+            port: "8484",
+            interval: 5000,
+            values: [],
+            isMapleStoryGameServer: true,
+            rel: "Login"
+        },
+        {
+            icon: "Mushroom.png",
+            name: "登入 1",
+            address: "202.80.104.22",
+            port: "8484",
+            interval: 5000,
+            values: [],
+            isMapleStoryGameServer: true,
+            rel: "Login"
+        },
+        {
+            icon: "Mushroom.png",
+            name: "登入 ",
+            address: "202.80.104.23",
+            port: "8484",
+            interval: 5000,
+            values: [],
+            isMapleStoryGameServer: true,
+            rel: "Login"
+        },
+        {
+            icon: "Mushroom.png",
+            name: "登入 1",
+            address: "202.80.104.24",
+            port: "8484",
+            interval: 5000,
+            values: [],
+            isMapleStoryGameServer: true,
+            rel: "Login"
+        },
+        {
+            icon: "Mushroom.png",
+            name: "登入 ",
+            address: "202.80.104.25",
+            port: "8484",
+            interval: 5000,
+            values: [],
+            isMapleStoryGameServer: true,
+            rel: "Login"
+        },
+        {
+            icon: "Mushroom.png",
+            name: "登入 1",
+            address: "202.80.104.26",
+            port: "8484",
+            interval: 5000,
+            values: [],
+            isMapleStoryGameServer: true,
+            rel: "Login"
+        },
+        {
+            icon: "Mushroom.png",
+            name: "登入 ",
+            address: "202.80.104.27",
+            port: "8484",
+            interval: 5000,
+            values: [],
+            isMapleStoryGameServer: true,
+            rel: "Login"
+        },
+        {
+            icon: "Mushroom.png",
+            name: "登入 1",
+            address: "202.80.104.28",
+            port: "8484",
+            interval: 5000,
+            values: [],
+            isMapleStoryGameServer: true,
+            rel: "Login"
+        },
+        {
+            icon: "Mushroom.png",
+            name: "登入 ",
+            address: "202.80.104.29",
+            port: "8484",
+            interval: 5000,
+            values: [],
+            isMapleStoryGameServer: true,
+            rel: "Login"
+        },
+        {
+            icon: "Mushroom.png",
+            name: "登入 1",
+            address: "202.80.104.30",
+            port: "8484",
+            interval: 5000,
+            values: [],
+            isMapleStoryGameServer: true,
+            rel: "Login"
+        },
+        {
+            icon: "Mushroom.png",
+            name: "登入 ",
+            address: "202.80.104.31",
+            port: "8484",
+            interval: 5000,
+            values: [],
+            isMapleStoryGameServer: true,
+            rel: "Login"
+        },
+        ],
         StarPlanet: [{
             icon: "StarPlanet.png",
             name: "Star Planet 1",
