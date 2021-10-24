@@ -4333,12 +4333,10 @@ var checker = {
             icon: "Orca.png",
             short: "Taiwan",
             serverCount: [
-                5,
-                1,
-                1
+                10
             ],
             applications: [
-                GameServer("Taiwan", 10, [{
+                GameServer("Taiwan", 1, [{
                         icon: "Mushroom.png",
                         name: "Login",
                         english: false,
