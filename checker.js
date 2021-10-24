@@ -430,7 +430,7 @@ var servers = {
                 rel: "Orca"
             },
             {
-                icon: "Luna.png",
+                icon: "Orca.png",
                 name: "Channel 24",
                 address: "202.80.104.150",
                 port: "8686",
@@ -450,7 +450,7 @@ var servers = {
                 rel: "Orca"
             },
             {
-                icon: "Luna.png",
+                icon: "Orca.png",
                 name: "Channel 26",
                 address: "202.80.104.151",
                 port: "8686",
@@ -470,7 +470,7 @@ var servers = {
                 rel: "Orca"
             },
             {
-                icon: "Luna.png",
+                icon: "Orca.png",
                 name: "Channel 28",
                 address: "202.80.104.152",
                 port: "8686",
@@ -490,7 +490,7 @@ var servers = {
                 rel: "Orca"
             },
             {
-                icon: "Luna.png",
+                icon: "Orca.png",
                 name: "Channel 30",
                 address: "202.80.104.153",
                 port: "8686",
