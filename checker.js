@@ -169,7 +169,7 @@ var GameServer = function(version, timeOffset, icons, servers) {
 
 var servers = {
     TMS: {
-        Login: [{
+        登入: [{
             icon: "Mushroom.png",
             name: "登入 1",
             address: "202.80.104.24",
@@ -177,7 +177,7 @@ var servers = {
             interval: 5000,
             values: [],
             isMapleStoryGameServer: true,
-            rel: "Login"
+            rel: "登入"
         },
         {
             icon: "Mushroom.png",
@@ -187,7 +187,7 @@ var servers = {
             interval: 5000,
             values: [],
             isMapleStoryGameServer: true,
-            rel: "Login"
+            rel: "登入"
         },
         {
             icon: "Mushroom.png",
@@ -197,7 +197,7 @@ var servers = {
             interval: 5000,
             values: [],
             isMapleStoryGameServer: true,
-            rel: "Login"
+            rel: "登入"
         },
         {
             icon: "Mushroom.png",
@@ -207,7 +207,7 @@ var servers = {
             interval: 5000,
             values: [],
             isMapleStoryGameServer: true,
-            rel: "Login"
+            rel: "登入"
         },
         {
             icon: "Mushroom.png",
@@ -217,7 +217,7 @@ var servers = {
             interval: 5000,
             values: [],
             isMapleStoryGameServer: true,
-            rel: "Login"
+            rel: "登入"
         },
         {
             icon: "Mushroom.png",
@@ -227,28 +227,70 @@ var servers = {
             interval: 5000,
             values: [],
             isMapleStoryGameServer: true,
-            rel: "Login"
+            rel: "登入"
         }],
-        StarPlanet: [{
-            icon: "StarPlanet.png",
-            name: "Star Planet 1",
-            address: "109.234.77.27",
-            port: "8591",
+        CrossWorld: [{
+            icon: "Generic.png",
+            name: "跨服 1",
+            address: "202.80.104.58",
+            port: "8787",
             interval: 5000,
             values: [],
             isMapleStoryGameServer: true,
-            rel: "Login"
-        }, {
-            icon: "StarPlanet.png",
-            name: "Star Planet 2",
-            address: "109.234.77.38",
-            port: "8592",
+            rel: "登入"
+        },
+        {
+            icon: "Generic.png",
+            name: "跨服 2",
+            address: "202.80.104.59",
+            port: "8787",
             interval: 5000,
             values: [],
             isMapleStoryGameServer: true,
-            rel: "Login"
+            rel: "登入"
+        },
+        {
+            icon: "Generic.png",
+            name: "跨服 3",
+            address: "202.80.104.60",
+            port: "8787",
+            interval: 5000,
+            values: [],
+            isMapleStoryGameServer: true,
+            rel: "登入"
+        },
+        {
+            icon: "Generic.png",
+            name: "跨服 4",
+            address: "202.80.104.61",
+            port: "8787",
+            interval: 5000,
+            values: [],
+            isMapleStoryGameServer: true,
+            rel: "登入"
+        },
+        {
+            icon: "Generic.png",
+            english: "Generic",
+            name: "跨服 5",
+            address: "202.80.104.62",
+            port: "8787",
+            interval: 5000,
+            values: [],
+            isMapleStoryGameServer: true,
+            rel: "登入"
+        },
+        {
+            icon: "Generic.png",
+            name: "跨服 6",
+            address: "202.80.104.63",
+            port: "8787",
+            interval: 5000,
+            values: [],
+            isMapleStoryGameServer: true,
+            rel: "登入"
         }],
-        Aria: [
+        艾麗亞: [
             {
                 icon: "Aria.png",
                 name: "Ch.01",
@@ -257,7 +299,7 @@ var servers = {
                 interval: 5000,
                 values: [],
                 isMapleStoryGameServer: true,
-                rel: "Aria"
+                rel: "艾麗亞"
             },
             {
                 icon: "Aria.png",
@@ -267,7 +309,7 @@ var servers = {
                 interval: 5000,
                 values: [],
                 isMapleStoryGameServer: true,
-                rel: "Aria"
+                rel: "艾麗亞"
             },
             {
                 icon: "Aria.png",
@@ -277,7 +319,7 @@ var servers = {
                 interval: 5000,
                 values: [],
                 isMapleStoryGameServer: true,
-                rel: "Aria"
+                rel: "艾麗亞"
             },
             {
                 icon: "Aria.png",
@@ -287,7 +329,7 @@ var servers = {
                 interval: 5000,
                 values: [],
                 isMapleStoryGameServer: true,
-                rel: "Aria"
+                rel: "艾麗亞"
             },
             {
                 icon: "Aria.png",
@@ -297,7 +339,7 @@ var servers = {
                 interval: 5000,
                 values: [],
                 isMapleStoryGameServer: true,
-                rel: "Aria"
+                rel: "艾麗亞"
             },
             {
                 icon: "Aria.png",
@@ -307,7 +349,7 @@ var servers = {
                 interval: 5000,
                 values: [],
                 isMapleStoryGameServer: true,
-                rel: "Aria"
+                rel: "艾麗亞"
             },
             {
                 icon: "Aria.png",
@@ -317,7 +359,7 @@ var servers = {
                 interval: 5000,
                 values: [],
                 isMapleStoryGameServer: true,
-                rel: "Aria"
+                rel: "艾麗亞"
             },
             {
                 icon: "Aria.png",
@@ -327,7 +369,7 @@ var servers = {
                 interval: 5000,
                 values: [],
                 isMapleStoryGameServer: true,
-                rel: "Aria"
+                rel: "艾麗亞"
             },
             {
                 icon: "Aria.png",
@@ -337,7 +379,7 @@ var servers = {
                 interval: 5000,
                 values: [],
                 isMapleStoryGameServer: true,
-                rel: "Aria"
+                rel: "艾麗亞"
             },
             {
                 icon: "Aria.png",
@@ -347,7 +389,7 @@ var servers = {
                 interval: 5000,
                 values: [],
                 isMapleStoryGameServer: true,
-                rel: "Aria"
+                rel: "艾麗亞"
             },
             {
                 icon: "Aria.png",
@@ -357,7 +399,7 @@ var servers = {
                 interval: 5000,
                 values: [],
                 isMapleStoryGameServer: true,
-                rel: "Aria"
+                rel: "艾麗亞"
             },
             {
                 icon: "Aria.png",
@@ -367,7 +409,7 @@ var servers = {
                 interval: 5000,
                 values: [],
                 isMapleStoryGameServer: true,
-                rel: "Aria"
+                rel: "艾麗亞"
             },
             {
                 icon: "Aria.png",
@@ -377,7 +419,7 @@ var servers = {
                 interval: 5000,
                 values: [],
                 isMapleStoryGameServer: true,
-                rel: "Aria"
+                rel: "艾麗亞"
             },
             {
                 icon: "Aria.png",
@@ -387,7 +429,7 @@ var servers = {
                 interval: 5000,
                 values: [],
                 isMapleStoryGameServer: true,
-                rel: "Aria"
+                rel: "艾麗亞"
             },
             {
                 icon: "Aria.png",
@@ -397,7 +439,7 @@ var servers = {
                 interval: 5000,
                 values: [],
                 isMapleStoryGameServer: true,
-                rel: "Aria"
+                rel: "艾麗亞"
             },
             {
                 icon: "Aria.png",
@@ -407,7 +449,7 @@ var servers = {
                 interval: 5000,
                 values: [],
                 isMapleStoryGameServer: true,
-                rel: "Aria"
+                rel: "艾麗亞"
             },
             {
                 icon: "Aria.png",
@@ -417,7 +459,7 @@ var servers = {
                 interval: 5000,
                 values: [],
                 isMapleStoryGameServer: true,
-                rel: "Aria"
+                rel: "艾麗亞"
             },
             {
                 icon: "Aria.png",
@@ -427,7 +469,7 @@ var servers = {
                 interval: 5000,
                 values: [],
                 isMapleStoryGameServer: true,
-                rel: "Aria"
+                rel: "艾麗亞"
             },
             {
                 icon: "Aria.png",
@@ -437,7 +479,7 @@ var servers = {
                 interval: 5000,
                 values: [],
                 isMapleStoryGameServer: true,
-                rel: "Aria"
+                rel: "艾麗亞"
             },
             {
                 icon: "Aria.png",
@@ -447,7 +489,7 @@ var servers = {
                 interval: 5000,
                 values: [],
                 isMapleStoryGameServer: true,
-                rel: "Aria"
+                rel: "艾麗亞"
             },
             {
                 icon: "Aria.png",
@@ -457,7 +499,7 @@ var servers = {
                 interval: 5000,
                 values: [],
                 isMapleStoryGameServer: true,
-                rel: "Aria"
+                rel: "艾麗亞"
             },
             {
                 icon: "Aria.png",
@@ -467,7 +509,7 @@ var servers = {
                 interval: 5000,
                 values: [],
                 isMapleStoryGameServer: true,
-                rel: "Aria"
+                rel: "艾麗亞"
             },
             {
                 icon: "Aria.png",
@@ -477,7 +519,7 @@ var servers = {
                 interval: 5000,
                 values: [],
                 isMapleStoryGameServer: true,
-                rel: "Aria"
+                rel: "艾麗亞"
             },
             {
                 icon: "Aria.png",
@@ -487,7 +529,7 @@ var servers = {
                 interval: 5000,
                 values: [],
                 isMapleStoryGameServer: true,
-                rel: "Aria"
+                rel: "艾麗亞"
             },
             {
                 icon: "Aria.png",
@@ -497,7 +539,7 @@ var servers = {
                 interval: 5000,
                 values: [],
                 isMapleStoryGameServer: true,
-                rel: "Aria"
+                rel: "艾麗亞"
             },
             {
                 icon: "Aria.png",
@@ -507,7 +549,7 @@ var servers = {
                 interval: 5000,
                 values: [],
                 isMapleStoryGameServer: true,
-                rel: "Aria"
+                rel: "艾麗亞"
             },
             {
                 icon: "Aria.png",
@@ -517,7 +559,7 @@ var servers = {
                 interval: 5000,
                 values: [],
                 isMapleStoryGameServer: true,
-                rel: "Aria"
+                rel: "艾麗亞"
             },
             {
                 icon: "Aria.png",
@@ -527,7 +569,7 @@ var servers = {
                 interval: 5000,
                 values: [],
                 isMapleStoryGameServer: true,
-                rel: "Aria"
+                rel: "艾麗亞"
             },
             {
                 icon: "Aria.png",
@@ -537,7 +579,7 @@ var servers = {
                 interval: 5000,
                 values: [],
                 isMapleStoryGameServer: true,
-                rel: "Aria"
+                rel: "艾麗亞"
             },
             {
                 icon: "Aria.png",
@@ -547,7 +589,7 @@ var servers = {
                 interval: 5000,
                 values: [],
                 isMapleStoryGameServer: true,
-                rel: "Aria"
+                rel: "艾麗亞"
             },
             {
                 icon: "Aria.png",
@@ -557,7 +599,7 @@ var servers = {
                 interval: 5000,
                 values: [],
                 isMapleStoryGameServer: true,
-                rel: "Aria"
+                rel: "艾麗亞"
             },
             {
                 icon: "Aria.png",
@@ -567,7 +609,7 @@ var servers = {
                 interval: 5000,
                 values: [],
                 isMapleStoryGameServer: true,
-                rel: "Aria"
+                rel: "艾麗亞"
             },
             {
                 icon: "Aria.png",
@@ -577,7 +619,7 @@ var servers = {
                 interval: 5000,
                 values: [],
                 isMapleStoryGameServer: true,
-                rel: "Aria"
+                rel: "艾麗亞"
             },
             {
                 icon: "Aria.png",
@@ -587,7 +629,7 @@ var servers = {
                 interval: 5000,
                 values: [],
                 isMapleStoryGameServer: true,
-                rel: "Aria"
+                rel: "艾麗亞"
             },
             {
                 icon: "Aria.png",
@@ -597,7 +639,7 @@ var servers = {
                 interval: 5000,
                 values: [],
                 isMapleStoryGameServer: true,
-                rel: "Aria"
+                rel: "艾麗亞"
             },
             {
                 icon: "Aria.png",
@@ -607,7 +649,7 @@ var servers = {
                 interval: 5000,
                 values: [],
                 isMapleStoryGameServer: true,
-                rel: "Aria"
+                rel: "艾麗亞"
             },
             {
                 icon: "Aria.png",
@@ -617,7 +659,7 @@ var servers = {
                 interval: 5000,
                 values: [],
                 isMapleStoryGameServer: true,
-                rel: "Aria"
+                rel: "艾麗亞"
             },
             {
                 icon: "Aria.png",
@@ -627,7 +669,7 @@ var servers = {
                 interval: 5000,
                 values: [],
                 isMapleStoryGameServer: true,
-                rel: "Aria"
+                rel: "艾麗亞"
             },
             {
                 icon: "Aria.png",
@@ -637,7 +679,7 @@ var servers = {
                 interval: 5000,
                 values: [],
                 isMapleStoryGameServer: true,
-                rel: "Aria"
+                rel: "艾麗亞"
             },
             {
                 icon: "Aria.png",
@@ -647,7 +689,7 @@ var servers = {
                 interval: 5000,
                 values: [],
                 isMapleStoryGameServer: true,
-                rel: "Aria"
+                rel: "艾麗亞"
             }
         ],
         Freud: [
@@ -6330,44 +6372,44 @@ var checker = {
             applications: [
                 GameServer("Taiwan", 8, [{
                         icon: "Mushroom.png",
-                        name: "Login",
+                        name: "登入",
                         english: false,
                         sub: ""
                     },
                     {
                         icon: "Aria.png",
-                        name: "Aria",
-                        english: false,
+                        name: "艾麗亞",
+                        english: "Aria",
                         sub: "World"
                     },
                     {
                         icon: "Freud.png",
                         name: "Freud",
-                        english: false,
+                        english: "Freud",
                         sub: "World"
                     },
                     {
                         icon: "Ryude.png",
                         name: "Ryude",
-                        english: false,
+                        english: "Ryude",
                         sub: "World"
                     },
                     {
                         icon: "Rhinne.png",
                         name: "Rhinne",
-                        english: false,
+                        english: "Rhinne",
                         sub: "World"
                     },
                     {
                         icon: "Alicia.png",
                         name: "Alicia",
-                        english: false,
+                        english: "Alicia",
                         sub: "World"
                     },
                     {
                         icon: "Orca.png",
                         name: "Orca",
-                        english: false,
+                        english: "Orca",
                         sub: "World"
                     },
                     {
@@ -6383,9 +6425,9 @@ var checker = {
                         sub: "World"
                     }
                 ], [
-                    servers.TMS.Login,
-                    servers.TMS.StarPlanet,
-                    servers.TMS.Aria,
+                    servers.TMS['登入'],
+                    servers.TMS.CrossWorld,
+                    servers.TMS['艾麗亞'],
                     servers.TMS.Freud,
                     servers.TMS.Ryude,
                     servers.TMS.Rhinne,
@@ -6818,6 +6860,13 @@ ko.applyBindings(checker);
 
 function GetEnglishIconNameForServer(serverName) {
     switch (serverName) {
+        case "登入":
+            return "Mushroom";
+        case "艾麗亞":
+            return "Aria";
+
+
+
         case "스카니아":
             return "Scania";
         case "베라":
