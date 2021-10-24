@@ -4440,93 +4440,6 @@ var checker = {
             ]
         },
         {
-            abbr: "EMS",
-            name: "MapleStory Europe",
-            available: false,
-            complete: false,
-            icon: "Luna.png",
-            short: "EUROPE",
-            serverCount: [
-                5,
-                1,
-                1
-            ],
-            applications: [
-                GameServer("Europe", 1, [{
-                        icon: "Mushroom.png",
-                        name: "Login",
-                        english: false,
-                        sub: ""
-                    },
-                    {
-                        icon: "Luna.png",
-                        name: "Luna",
-                        english: false,
-                        sub: "World"
-                    },
-                    {
-                        icon: "Kradia.png",
-                        name: "Kradia",
-                        english: false,
-                        sub: "World"
-                    },
-                    {
-                        icon: "Demethos.png",
-                        name: "Demethos",
-                        english: false,
-                        sub: "World"
-                    },
-                    {
-                        icon: "Supreme.png",
-                        name: "Supreme",
-                        english: false,
-                        sub: "World"
-                    }
-                ], [
-                    servers.EMS.Login,
-                    servers.EMS.StarPlanet,
-                    servers.EMS.Luna,
-                    servers.EMS.Kradia,
-                    servers.EMS.Demethos,
-                    servers.EMS.Supreme
-                ]),
-                {
-                    name: "Internal Sites",
-                    description: "These are pages which are hosted on Nexon Europe's own 109.234.73.* servers.",
-                    icons: [{
-                            icon: "Mushroom.png",
-                            name: "mapleeu.com",
-                            english: false,
-                            sub: ""
-                        },
-                        {
-                            icon: "Nexon.png",
-                            name: "nexoneu.com",
-                            english: false,
-                            sub: "World"
-                        }
-                    ],
-                    content: function() {
-                        return new PingModel([
-                            servers.EMS.InternalWebsites
-                        ])
-                    },
-                    selectedServers: ko.observable(loadingArr)
-                },
-                {
-                    name: "External Sites",
-                    description: "These are pages which are hosted on external servers.",
-                    selectedServers: ko.observable(loadingArr),
-                    icons: [],
-                    content: function() {
-                        return new PingModel([
-                            servers.EMS.ExternalWebsites
-                        ])
-                    }
-                }
-            ]
-        },
-        {
             abbr: "GMS",
             name: "MapleStory North America <small>(Global)</small>",
             available: true,
@@ -4885,15 +4798,6 @@ var checker = {
                     servers.MSEA.Jynarvis
                 ])
             ]
-        },
-        {
-            abbr: "MS2",
-            name: "MapleStory 2 CBT <small>(메이플스토리2)</small>",
-            available: false,
-            complete: false,
-            icon: "MS2Scania.png",
-            short: "MapleStory 2 CBT",
-            applications: []
         }
     ],
     updateSelectedServers: UpdateSelectedServers,
