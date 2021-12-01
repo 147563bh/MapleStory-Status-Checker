@@ -2704,6 +2704,308 @@ var servers = {
                 rel: "Reboot"
             }
         ],
+        Yeti_PinkBean: [
+            {
+                icon: "Yeti_PinkBean.png",
+                name: "Ch.01",
+                address: "202.80.104.180",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Yeti_PinkBean"
+            },
+            {
+                icon: "Yeti_PinkBean.png",
+                name: "Ch.02",
+                address: "202.80.104.180",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Yeti_PinkBean"
+            },
+            {
+                icon: "Yeti_PinkBean.png",
+                name: "Ch.03",
+                address: "202.80.104.181",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Yeti_PinkBean"
+            },
+            {
+                icon: "Yeti_PinkBean.png",
+                name: "Ch.04",
+                address: "202.80.104.181",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Yeti_PinkBean"
+            },
+            {
+                icon: "Yeti_PinkBean.png",
+                name: "Ch.05",
+                address: "202.80.104.182",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Yeti_PinkBean"
+            },
+            {
+                icon: "Yeti_PinkBean.png",
+                name: "Ch.06",
+                address: "202.80.104.182",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Yeti_PinkBean"
+            },
+            {
+                icon: "Yeti_PinkBean.png",
+                name: "Ch.07",
+                address: "202.80.104.183",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Yeti_PinkBean"
+            },
+            {
+                icon: "Yeti_PinkBean.png",
+                name: "Ch.08",
+                address: "202.80.104.183",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Yeti_PinkBean"
+            },
+            {
+                icon: "Yeti_PinkBean.png",
+                name: "Ch.09",
+                address: "202.80.104.184",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Yeti_PinkBean"
+            },
+            {
+                icon: "Yeti_PinkBean.png",
+                name: "Ch.10",
+                address: "202.80.104.184",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Yeti_PinkBean"
+            },
+            {
+                icon: "Yeti_PinkBean.png",
+                name: "Ch.11",
+                address: "202.80.104.185",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Yeti_PinkBean"
+            },
+            {
+                icon: "Yeti_PinkBean.png",
+                name: "Ch.12",
+                address: "202.80.104.185",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Yeti_PinkBean"
+            },
+            {
+                icon: "Yeti_PinkBean.png",
+                name: "Ch.13",
+                address: "202.80.104.186",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Yeti_PinkBean"
+            },
+            {
+                icon: "Yeti_PinkBean.png",
+                name: "Ch.14",
+                address: "202.80.104.186",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Yeti_PinkBean"
+            },
+            {
+                icon: "Yeti_PinkBean.png",
+                name: "Ch.15",
+                address: "202.80.104.187",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Yeti_PinkBean"
+            },
+            {
+                icon: "Yeti_PinkBean.png",
+                name: "Ch.16",
+                address: "202.80.104.187",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Yeti_PinkBean"
+            },
+            {
+                icon: "Yeti_PinkBean.png",
+                name: "Ch.17",
+                address: "202.80.104.188",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Yeti_PinkBean"
+            },
+            {
+                icon: "Yeti_PinkBean.png",
+                name: "Ch.18",
+                address: "202.80.104.188",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Yeti_PinkBean"
+            },
+            {
+                icon: "Yeti_PinkBean.png",
+                name: "Ch.19",
+                address: "202.80.104.189",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Yeti_PinkBean"
+            },
+            {
+                icon: "Yeti_PinkBean.png",
+                name: "Ch.20",
+                address: "202.80.104.189",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Yeti_PinkBean"
+            },
+            {
+                icon: "Yeti_PinkBean.png",
+                name: "Ch.21",
+                address: "202.80.104.190",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Yeti_PinkBean"
+            },
+            {
+                icon: "Yeti_PinkBean.png",
+                name: "Ch.22",
+                address: "202.80.104.190",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Yeti_PinkBean"
+            },
+            {
+                icon: "Yeti_PinkBean.png",
+                name: "Ch.23",
+                address: "202.80.104.191",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Yeti_PinkBean"
+            },
+            {
+                icon: "Yeti_PinkBean.png",
+                name: "Ch.24",
+                address: "202.80.104.191",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Yeti_PinkBean"
+            },
+            {
+                icon: "Yeti_PinkBean.png",
+                name: "Ch.25",
+                address: "202.80.104.192",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Yeti_PinkBean"
+            },
+            {
+                icon: "Yeti_PinkBean.png",
+                name: "Ch.26",
+                address: "202.80.104.192",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Yeti_PinkBean"
+            },
+            {
+                icon: "Yeti_PinkBean.png",
+                name: "Ch.27",
+                address: "202.80.104.193",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Yeti_PinkBean"
+            },
+            {
+                icon: "Yeti_PinkBean.png",
+                name: "Ch.28",
+                address: "202.80.104.193",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Yeti_PinkBean"
+            },
+            {
+                icon: "Yeti_PinkBean.png",
+                name: "Ch.29",
+                address: "202.80.104.194",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Yeti_PinkBean"
+            },
+            {
+                icon: "Yeti_PinkBean.png",
+                name: "Ch.30",
+                address: "202.80.104.194",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Yeti_PinkBean"
+            }
+        ],
         InternalWebsites: [{
                 icon: "Mushroom.png",
                 name: "新楓之谷",
@@ -6568,6 +6870,12 @@ var checker = {
                         name: "Reboot",
                         english: false,
                         sub: "World"
+                    },
+                    {
+                        icon: "Yeti_PinkBean.png",
+                        name: "Yeti_PinkBean",
+                        english: 雪吉拉X皮卡啾,
+                        sub: "World"
                     }
                 ], [
                     servers.TMS.Login,
@@ -6578,7 +6886,8 @@ var checker = {
                     servers.TMS.Rhinne,
                     servers.TMS.Alicia,
                     servers.TMS.Orca,
-                    servers.TMS.Reboot
+                    servers.TMS.Reboot,
+                    servers.TMS.Yeti_PinkBean
                 ]),
                 {
                     name: "Websites",
