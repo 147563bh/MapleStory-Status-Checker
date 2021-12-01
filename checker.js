@@ -6873,7 +6873,7 @@ var checker = {
                     },
                     {
                         icon: "Yeti_PinkBean.png",
-                        name: "YetiXPinkBean",
+                        name: "Yeti_PinkBean",
                         english: "雪吉拉X皮卡啾",
                         sub: "World"
                     }
