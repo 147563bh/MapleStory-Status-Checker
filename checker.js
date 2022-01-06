@@ -3006,6 +3006,108 @@ var servers = {
                 rel: "Yeti_PinkBean"
             }
         ],
+        Test: [
+            {
+                icon: "Test.png",
+                name: "Ch.01",
+                address: "202.80.104.196",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Test"
+            },
+            {
+                icon: "Test.png",
+                name: "Ch.02",
+                address: "202.80.104.196",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Test"
+            },
+            {
+                icon: "Test.png",
+                name: "Ch.03",
+                address: "202.80.104.197",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Test"
+            },
+            {
+                icon: "Test.png",
+                name: "Ch.04",
+                address: "202.80.104.197",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Test"
+            },
+            {
+                icon: "Test.png",
+                name: "Ch.05",
+                address: "202.80.104.198",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Test"
+            },
+            {
+                icon: "Test.png",
+                name: "Ch.06",
+                address: "202.80.104.198",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Test"
+            },
+            {
+                icon: "Test.png",
+                name: "Ch.07",
+                address: "202.80.104.199",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Test"
+            },
+            {
+                icon: "Test.png",
+                name: "Ch.08",
+                address: "202.80.104.199",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Test"
+            },
+            {
+                icon: "Test.png",
+                name: "Ch.09",
+                address: "202.80.104.200",
+                port: "8585",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Test"
+            },
+            {
+                icon: "Test.png",
+                name: "Ch.10",
+                address: "202.80.104.200",
+                port: "8686",
+                interval: 5000,
+                values: [],
+                isMapleStoryGameServer: true,
+                rel: "Test"
+            }
+        ],
         InternalWebsites: [{
                 icon: "Mushroom.png",
                 name: "新楓之谷",
@@ -6876,6 +6978,12 @@ var checker = {
                         name: "Yeti_PinkBean",
                         english: "雪吉拉X皮卡啾",
                         sub: "World"
+                    },
+                    {
+                        icon: "Test.png",
+                        name: "Test",
+                        english: "測試",
+                        sub: "World"
                     }
                 ], [
                     servers.TMS.Login,
@@ -6887,7 +6995,8 @@ var checker = {
                     servers.TMS.Alicia,
                     servers.TMS.Orca,
                     servers.TMS.Reboot,
-                    servers.TMS.Yeti_PinkBean
+                    servers.TMS.Yeti_PinkBean,
+                    servers.TMS.Test
                 ]),
                 {
                     name: "Websites",
