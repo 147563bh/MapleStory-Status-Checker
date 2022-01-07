@@ -228,6 +228,16 @@ var servers = {
             values: [],
             isMapleStoryGameServer: true,
             rel: "Login"
+        },
+        {
+            icon: "Mushroom.png",
+            name: "測試登入 1",
+            address: "202.80.104.30",
+            port: "8484",
+            interval: 5000,
+            values: [],
+            isMapleStoryGameServer: true,
+            rel: "Login"
         }],
         CrossWorld: [{
             icon: "Generic.png",
